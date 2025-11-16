@@ -1,0 +1,15 @@
+# Data (never commit raw data)
+data/raw/
+data/processed/
+data/labeled/*.csv
+!data/labeled/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# IDE
+.ipynb_checkpoints/
