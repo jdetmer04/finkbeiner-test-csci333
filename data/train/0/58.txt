@@ -1,0 +1,47 @@
+A new study from the University of California San Diego identifies an unexpected influence on global crop stability: the original source of rainfall.
+
+Published in Nature Sustainability, the research follows atmospheric moisture back to the place where it first evaporated, whether from the ocean or from land surfaces such as soil, lakes and forests. Sunlight heats these surfaces, converting water to vapor that rises into the atmosphere and eventually returns as rain.
+
+Ocean-derived moisture can travel across continents within large weather systems including atmospheric rivers, monsoons and tropical storms. Moisture that comes from land, often referred to as recycled rainfall, is created when water evaporates from nearby soils and vegetation, fueling more localized storms. According to the study, the ratio of ocean to land moisture strongly shapes regional drought risk and agricultural productivity.
+
+"Our work reframes drought risk -- it's not just about how much it rains, but where that rain comes from," said Yan Jiang, the study's lead author and postdoctoral scholar at UC San Diego with a joint appointment at the School of Global Policy and Strategy and Scripps Institution of Oceanography. "Understanding the origin of rainfall and whether it comes from oceanic or land sources, gives policymakers and farmers a new tool to predict and mitigate drought stress before it happens."
+
+Tracking Moisture Sources to Improve Drought Forecasting
+
+Using nearly 20 years of satellite measurements, Jiang and co-author Jennifer Burney of Stanford University quantified how much of global rainfall begins as land-based evaporation. They found that when more than roughly one-third of precipitation originates from land, croplands become significantly more susceptible to drought, soil moisture declines and drops in yield. Ocean-driven systems generally produce heavier and more consistent rainfall, while land-driven systems tend to produce lighter and less predictable showers, making crops more vulnerable during stages when water is essential.
+
+This discovery offers a new method for identifying regions at higher risk and for planning water and crop management strategies more effectively.
+
+"For farmers in areas that rely heavily on land-originating moisture -- like parts of the Midwest or eastern Africa -- local water availability becomes the deciding factor for crop success," Jiang explained. "Changes in soil moisture or deforestation can have immediate, cascading impacts on yields."
+
+Two Regions Facing Heightened Risk: The Midwest and East Africa
+
+The research identifies two prominent global hotspots: the U.S. Midwest and tropical East Africa.
+
+In the Midwest, Jiang notes that droughts have grown more frequent and intense in recent years, despite the region's status as one of the world's most productive agricultural zones.
+
+"Our findings suggest that the Midwest's high reliance on land-sourced moisture, from surrounding soil and vegetation, could amplify droughts through what we call 'rainfall feedback loops,'" Jiang said. "When the land dries out, it reduces evaporation, which in turn reduces future rainfall -- creating a self-reinforcing drought cycle."
+
+Because the region is a major contributor to global grain markets, disruptions there can influence food supply far beyond U.S. borders. Jiang says farmers in the Midwest may need to focus on soil moisture conservation, irrigation efficiency and strategic timing of planting to limit the risk of compounding drought effects.
+
+East Africa faces a different but equally serious challenge. Rapid growth of croplands and the ongoing loss of nearby rainforests threaten the moisture sources that help sustain the region's rainfall.
+
+"This creates a dangerous conflict," Jiang said. "Farmers are clearing forests to grow more crops, but those forests help generate the rainfall that the crops depend on. If that moisture source disappears, local food security will be at greater risk."
+
+Jiang adds that the region still has opportunities to prevent further decline.
+
+"Eastern Africa is on the front line of change, but there is still time to act. Smarter land management -- like conserving forests and restoring vegetation -- can protect rainfall and sustain agricultural growth."
+
+Forests Act as Natural Generators of Rainfall
+
+The study emphasizes that forests and natural ecosystems play a critical role in maintaining rainfall. Through evaporation and transpiration (when plants produce moisture), forests release large amounts of water vapor into the atmosphere, helping form clouds that later produce rain over surrounding croplands.
+
+"Upland forests are like natural rainmakers," Jiang said. "Protecting these ecosystems isn't just about biodiversity -- it's about sustaining agriculture."
+
+Advancing Climate-Smart Land and Water Planning
+
+Jiang's work introduces a new framework that links land use decisions, rainfall patterns and agricultural planning. This approach may become increasingly important as regions look for strategies to strengthen drought resilience.
+
+The study also presents a satellite-based mapping method that could guide investments in irrigation, soil water retention and forest conservation to help stabilize rainfall.
+
+Read the full paper, "Crop water origins and hydroclimate vulnerability of global croplands."

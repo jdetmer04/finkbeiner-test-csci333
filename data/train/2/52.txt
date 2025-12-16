@@ -1,0 +1,45 @@
+Claire Voisin enjoys the creativity of finding ways to solve mathematical problems.Credit: Christophe Archambault/AFP/Getty
+
+Last week, mathematician Claire Voisin was awarded the 2024 Crafoord Prize in Mathematics — one of the top awards in the field.
+
+Voisin, who is based at the Jussieu Institute of Mathematics in Paris, studies algebraic geometry, a field of research concerning geometric figures — called varieties — that are defined by algebraic equations. The prototypical example is the equation x2 + y2 = 1, which defines a circle.
+
+She has been described as the world’s foremost expert on the still-unsolved Hodge conjecture, an algebraic-geometry problem that concerns the nature of the varieties that are contained inside a larger variety. The conjecture is one of the Millennium Prize Problems — seven mathematical questions that each carry a US$1-million prize for the first person to solve them.
+
+Voisin has also worked on questions that arose from the speculative ideas from physics called string theory. She spoke to Nature about some of her best-known work.
+
+You are the first woman to be awarded a Crafoord Prize in Mathematics. Does this have a special significance for you?
+
+No. Since I do mathematics, I have always been the first woman to do this, or to do that. Sometimes I feel that the media, each time they speak about me, say, ‘the first woman who …’. Personally, I think it’s not good to put emphasis on that. For me, I am just a mathematician. I am happy if people appreciate the mathematics that I am doing.
+
+Bias certainly still exists. I certainly recognize that mathematics, as a world, is not encouraging to girls at school and to young women. Personally — maybe because of my personality, because I don’t care what people think about me — I didn’t suffer from this.
+
+Did you like mathematics as a child?
+
+I did. I learnt some from my father. He was an engineer, so he had a very practical style, and taught me very traditional mathematics. It was very different when I went to high school. In French schools at the time, there was the fashion of ‘modern mathematics’, which was an attempt to teach abstract mathematics, such as set theory. We had to do completely crazy things, like compute the development of numbers in base 2.
+
+Later, when I was in preparatory school, I did not think I wanted to be a mathematician. In fact, I was interested in philosophy, because I thought that mathematics was too mechanical. When you do mathematics in school, at no point are you supposed to produce really new ideas. Only much later on, I discovered that mathematics has this depth at the level of concepts.
+
+People often talk about mathematical theories having depth. How do you define ‘deep’?
+
+I can give you an example: the Cartesian coordinates of the plane. You can explain to a child that you can associate two numbers, x and y, with each point on a plane — a flat surface — which means you have two functions defined on the plane. It’s very simple, but it’s totally deep — it’s close to having a philosophy of space. And this is due to the seventeenth-century mathematician René Descartes.
+
+My field of mathematics was revolutionized by the late French mathematician Alexander Grothendieck in the 1960s. And the starting point was a sort of revolution in the way of understanding geometry: what is a space? When you define what a space is, you give total priority to the study of functions.
+
+And is coming up with the definition of a ‘deep’ concept a creative act?
+
+I consider it the most creative part of our work. I would contrast this to the technical developments of a theory — where you may still need some creativity, but it’s more like a Lego game, where you put together all the technical details. But the most creative part is to put down the right definition that gives you a new way to attack a problem. For me, it’s simply extraordinary.
+
+What are the prospects for solving the Hodge conjecture?
+
+I would say it’s a disaster! We have a lot of evidence to suggest that the Hodge conjecture is true. But I would say this evidence is based on arguments that everything happens as if the Hodge conjecture were true.
+
+The problem with the Hodge conjecture is that to prove it, you have to invent a way of constructing interesting varieties. And we have absolutely zero ideas on how to do that. So, at present, I see no hope.
+
+Some of your most celebrated work has been on the mirror-symmetry conjecture, which was inspired by string theory. Are you still working on physics-inspired problems?
+
+I worked on mirror symmetry maybe for three or four years. Then I left, because I didn’t feel I was doing my best. I was trying to understand what these people had in mind, but I gave up quickly. The problem is, physicists have extraordinary ideas — sort of like magic. But they don’t work at the same scale of time as us. We mathematicians need a lot of time to produce the right definitions and to prove theorems. And we are not happy if the statements are not proved rigorously.
+
+When you start doing that, and you come back three years later, and tell the physicists, “now I have proved your formula rigorously”, they already went in another direction.
+
+Some mathematicians have stayed in contact with physics and have done extraordinary things. But for me it was not good, because I like to work alone and to ask my own questions.

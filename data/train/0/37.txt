@@ -1,0 +1,53 @@
+A series focused on the personal side of Harvard research and teaching.
+
+When Susan Kuo was growing up, a relative came to live with her and her immediate family in Vancouver, Canada. Previously warm and affectionate, the family member had become suspicious and withdrawn and struggled to communicate needs.
+
+What Kuo didn’t know at the time, but realized later while taking psychology classes as an undergraduate at the University of British Columbia, was that some of the behaviors exhibited by her family member were signs of schizophrenia. Being able to label what she witnessed brought clarity to a confusing time in her life. Kuo resolved to bring that same clarity to others about neuropsychiatric disabilities — and how they can vary across people’s lifetimes.
+
+“If we had been able to figure out more specific services earlier, that would’ve been really helpful in terms of getting my family member back on track,” said Kuo, now a postdoctoral researcher at the Center for Genomic Medicine and Department of Psychiatry at Mass General studying autism and schizophrenia. She is also affiliated with the Stanley Center for Psychiatric Research at Broad Institute.
+
+Kuo had always been drawn to medicine, and once exposed to psychology it cemented her professional path. While earning her Ph.D. in clinical psychology at the University of Pittsburgh, she zeroed in on schizophrenia.
+
+Uncovering developmental patterns
+
+Kuo wanted to better understand genetic effects contributing to schizophrenia that may be associated with changes in brain and behavior throughout people’s lifetimes. Her relative, for example, showed signs of schizophrenia upon reaching young adulthood, which is in line with the typical onset age of 18 to 25 years.
+
+She wondered whether there were notable patterns among relatives, compared to people without a family history of schizophrenia, that suggest genetic effects.
+
+“First-degree relatives, siblings and such, share on average 50 percent of their genes in common” with a person with schizophrenia, explained Kuo’s Ph.D. adviser Michael Pogue-Geile, whose lab studies family genetics to pinpoint potential factors that might contribute to the onset of schizophrenia.
+
+Working closely with Pogue-Geile, Kuo conducted a study that divided biological relatives of people with schizophrenia into three age groups: pre-20s, 20s, and post-20s. Kuo and Pogue-Geile discovered subtle differences in cognitive function and brain structure among relatives in their 20s who did not have schizophrenia diagnoses but carried more schizophrenia-associated genetic variants than the general population.
+
+The findings suggest some genetic effects that may contribute to the onset of schizophrenia are more salient around this time of life. Pogue-Geile offered some possible explanations for why that may be: Some genes turn on and off during different times in a person’s lifespan (think puberty); also, people often experience significant change and stress as they enter adulthood.
+
+“That was very innovative research that not really any other people had done in the field,” Pogue-Geile said.
+
+Predicting intervention responses
+
+Kuo continued working with people with schizophrenia during her clinical internship at UCLA Medical Center. Keith Nuechterlein, whose lab at UCLA is also a clinic for people experiencing their first episode of schizophrenia, said that Kuo’s “superb research skills” and talent for psychotherapy contributed significantly to the lab. The team published a paper that suggested childhood and teenage experiences before a first episode of schizophrenia predict how well certain interventions would work.
+
+“If we can intervene successfully at the beginning of this illness, the hope is that we can change the trajectory.” Keith Nuechterlein, director, UCLA Semel Institute of Neuroscience and Human Behavior
+
+While on average many young people adapt well to various roles and responsibilities before their first episode of schizophrenia, Kuo noticed that the average was hiding a wide range of experiences. People with schizophrenia generally follow one of three developmental trajectories from childhood through adolescence: Some maintain social ties and keep up schoolwork; others progressively show challenges leading up to the onset of their first episode of schizophrenia; and others struggle with social ties and schoolwork starting in childhood. Kuo’s work suggests those who fall in the last group showed the highest levels of improvement with cognitive training interventions.
+
+“That’s actually encouraging; it helps us know how to target that kind of cognitive training,” Nuechterlein said. “If we can intervene successfully at the beginning of this illness, the hope is that we can change the trajectory.”
+
+Planning clinical and educational resources
+
+For Kuo, she’s noticed that genetics research to date has rarely captured how phenotypes, particularly those that impact quality of life, may shift over time for people with neuropsychiatric disabilities. She hopes to change that.
+
+Now at the Mass General, where her research focuses on autism as well as schizophrenia, Kuo has another opportunity to study relationships between genetic variation and phenotypic variation throughout development.
+
+Elise Robinson, an epidemiologist and geneticist who supervises Kuo’s research, discussed Kuo’s contribution to the lab.
+
+“Heterogeneity in autism is massively underdiscussed, which has implications for clinical practice and family experience,” said Robinson, whose lab is based at Mass General Hospital’s Center for Genomic Medicine and Department of Psychiatry and at Broad Institute’s Stanley Center for Psychiatric Research.
+
+“By understanding the genetic and phenotypic diversity, the hope is that we can better match different services to folks who could use them,” Kuo said. “What are the supports they could use down the line as you’re anticipating some of the challenges — or some of the strengths — they might develop?”
+
+Since joining the Robinson lab, Kuo has been studying this variability among people with neuropsychiatric disabilities at scale, with an eye toward building clinical and educational resources. The team analyzed patterns of attaining early developmental milestones, such as walking and talking, in over 17,000 autistic children compared to over 4,000 siblings without an autism diagnosis. They found that while some autistic children reached these milestones on time, autistic children on average reached milestones up to 20 months later. Later milestones like speaking phrases had longer delays than earlier milestones like smiling.
+
+Building on these findings, Kuo’s team is currently working on a suite of online, public resources designed for clinicians and families of autistic children to learn about the latest genetics research and navigate considerations surrounding clinical genetic testing.
+
+As for Robinson, she continues to be impressed by Kuo’s drive.
+
+“She’s incredibly diligent; she’s also invariably thoughtful and nonjudgmental and wonderful about mentoring people in our team,” Robinson said. “It’s a large part of why she’s such a natural leader, an obvious budding leader in our community.”

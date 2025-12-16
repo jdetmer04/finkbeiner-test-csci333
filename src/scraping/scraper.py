@@ -20,6 +20,14 @@ def scrape_article(url: str) -> dict:
         "summary": article.summary
     }
 
+def scrape_text(url: str) -> str:
+    article = Article(url)
+    article.download()
+    article.parse()
+    article.nlp()
+
+    return article.text
+
 if __name__ == "__main__":
     # this url for testing - (hopefully) not what's getting parsed if you run the main program
     test_url = "https://news.mit.edu/2011/timeline-richards-0126"

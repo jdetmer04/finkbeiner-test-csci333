@@ -1,0 +1,23 @@
+Detectives often find important clues by digging through rubbish. That approach paid off tremendously for systems biologist Yifat Merbl. When she and her team investigated cellular recycling centres known as proteasomes, they uncovered an entirely new part of the immune system.
+
+“Up ’till now, we couldn’t detect it,” Merbl says, “because we didn’t look at the garbage cans of cells.”
+
+From her office at the Weizmann Institute of Science in Rehovot, Israel, she holds up a blue plastic model of a proteasome, a barrel-shaped structure with a hollow core. The function seems simple: proteins enter the chamber, where they are shredded and then exit as smaller peptide fragments. But the machinery is surprisingly elaborate. The core comprises more than two dozen protein subunits and can associate with a variety of regulatory caps. If the goal is to slice and dice proteins, Merbl wondered, why the need for such complexity?
+
+Merbl and her team used mass spectrometry to identify the peptides created by proteasomes in a variety of cells. They then compared the sequences of these peptides to those with known functions, using public databases. Many, they found, matched ones known to obliterate bacteria, such as by piercing their membranes. The team identified other fragments — about 1,000 in total — with sequences that, according to an algorithm, make them likely to be antimicrobial.
+
+There might be more. When Merbl and her colleagues used computer models to chop up all human proteins into all possible peptide fragments, they found that there are more than 270,000 possible antimicrobials. The team had uncovered what seemed to be a new immune defence mechanism.
+
+“This was literally where you have the goosebumps, because you realize that you may have found something fundamental,” Merbl says. Further experiments revealed that when cells are infected with bacteria, the proteasome swaps its regulatory cap for one that favours the production of bacteria-fighting peptides. It’s a first line of defence, Merbl says, one that operates independently of immune-cell activation.
+
+The results were published in March (K. Goldberg et al. Nature 639, 1032–1041; 2025) and they have many people in the field excited, says Ruslan Medzhitov, an immunologist at the Yale School of Medicine in New Haven, Connecticut. “There’s something that we thought is so familiar and so well understood, and then boom — something totally unexpected and exciting comes out of it.” What’s most surprising, he says, is that the peptides come from “regular run-of-the-mill cellular proteins” rather than ones specifically involved in immune defence.
+
+This means that processing by the proteasome vastly increases the number of jobs that a single protein can have, says Cesar de la Fuente, a bioengineer at the University of Pennsylvania in Philadelphia. “It’s a very smart way, evolutionarily, of encoding a lot of functionality in a single gene,” he says.
+
+Such success was not something that Merbl had ever dreamt she would achieve. Her attention-deficit/hyperactivity disorder had made school especially challenging. She loved computer science and biology as a child, but struggled to attend classes and didn’t graduate from high school with her peers. Over the years, however, she has come to accept that the way her brain works is an advantage, not a flaw. It gives her a different perspective.
+
+Marc Kirschner, a biochemist and systems biologist at Harvard Medical School in Boston, Massachusetts who served as Merbl’s doctoral adviser, remembers her passion, her brilliance and her dedication. She liked embarking on scientific fishing expeditions and not knowing what she would catch. “She’s made some terrific discoveries,” he says.
+
+She and her team faced a setback this summer when their lab was destroyed by an Iranian missile strike. Merbl, who lives on campus, waited out the attack in a bomb shelter, then rushed to her lab. The building next door was on fire, and the power was off. She made her way through the building, navigating broken glass while wearing flip-flops, and closing freezer doors to keep samples cold. Merbl lost her mass spectrometer, but importantly, she says, no one was injured. Now the team is in a new space on campus and ready to keep looking for other secrets hiding in proteasome-produced peptides.
+
+“It’s not going to be only antimicrobials,” she says. “It’s not the end of the story.”

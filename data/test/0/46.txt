@@ -1,0 +1,31 @@
+Painful experience has taught Erika Moore that benign doesn’t always mean harmless. Moore, a biomedical engineer at the University of Maryland in College Park, lives with noncancerous tumors in the uterus called uterine fibroids. “That’s what drew me in to wanting to understand these diseases and try to make not only my life better, but the lives of my loved ones better too,” she says.
+
+Uterine fibroids can cause anemia, pain, reproductive issues and heavy or irregular menstrual bleeding. An estimated 70 percent of white women and 80 percent of Black women in the United States will develop uterine fibroids by age 50. Moore is dedicated to finding the molecular underpinnings of fibroids and other diseases, such as lupus, that disproportionately affect women of color.
+
+Sign up for our newsletter We summarize the week's scientific breakthroughs every Thursday.
+
+No one fully understands how and why fibroids grow. So, Moore and her team are using Jell-O-like materials called hydrogels to investigate the mechanism. Hydrogels mimic the 3-D properties of the uterine environment better than two-dimensional materials do. Soon, Moore and her team hope to add to the system the cells important for fibroid formation, such as muscle and immune cells.
+
+Using such hydrogels, Moore says she hopes to “better understand, well, why did my fibroids form? Why did they form for other people?” Armed with that knowledge she may be able to devise new treatments for the condition.
+
+TRANSCRIPT
+
+Erika Moore: I actually had uterine fibroids, so that was responsible for a lot of my heavy bleeding and a lot of issues that I had. And that’s what drew me in to wanting to understand these diseases and try to do something to make not only my life better, but the lives of my loved ones better, too.
+
+Historically, there has not been a lot of research or biomedical emphasis placed on women’s health. And for me, because of my lived experience with fibroids, with anemia, with all of these maladies, I really wanted to understand how I could design biotechnology tools to help other people who I know suffer from these diseases disproportionately, compared to men, like uterine fibroids, like lupus. And we even study how hormones affect our innate immune function.
+
+Uterine fibroids are what are classically defined as benign. So that means they’re nonharmful, but I don’t really like that term. There are these spontaneous growths that occur in and around the uterus of women. And we don’t know why they form. We don’t know what stops them. Some of them grow to upwards of 23 centimeters in diameter. There aren’t a lot of great in vitro or animal models to help us study that. And so we actually applied tissue engineering. And we can basically try to recreate conditions in which they form and then use our platforms to screen different drugs. So that way, we can understand and try to stop them from forming eventually.
+
+Right now, clinically, if you’re diagnosed with uterine fibroids, usually they tell you to monitor them. They don’t really recommend surgery unless it’s really impacting your way of life or your, you know, lifestyle, or if you’re trying to get pregnant or, you know, experiencing fertility issues. So, there are only surgical interventions for something that affects almost 80% of women by the time we reach 50 years old. Yeah, it is crazy.
+
+The very challenging part about studying uterine fibroids is there is a mishmash of all of these different ingredients on why they’re forming, and so it’s really hard to pick one out and say, this is the reason why they form.
+
+By growing cells in our hydrogel and encapsulating them in our own Jell-O that we make in the lab, we can understand how those cells migrate, how they interact with other cells that might be neighboring them, and even how their growth mechanisms change if we change their environment. I could take my fibroid cells and put them in a hydrogel and recreate how those fibroids started forming, so that I could better understand, well, why did my fibroids form? Why did they form for other people? And what is common amongst those? And how can we target that in the future for the next generation?
+
+Think about the diseases that only affect certain populations. Maybe they’re disproportionately burdened in women or in men, right? If we’re studying uterine fibroids, we only use samples from women. But even within uterine fibroids, there’s a disproportionate burden based on race and ethnicity. And that determines which cells we get and how we model those cells. And so if you think about it from the context of bringing a clinical problem all the way down to the benchtop, you can think from seeing which populations are present clinically and how you can model those to stay true to what’s actually seen, in, as you model that diseases at the bench.
+
+Sponsor Message
+
+I trained as a biomedical engineer. I’ve gone to some of the best schools in the nation, learning how to do biomedical engineering. And at the end of that, I felt like I came out with these great powers. Right? And so for me, it’s this famous quote, in Spider Man, Peter Parker’s uncle says, “with great power comes great responsibility.”
+
+I wanted to use these powers to help us better address those diseases, to be responsible for others, for women, for women of color, and try to design devices and study the diseases that impact them.

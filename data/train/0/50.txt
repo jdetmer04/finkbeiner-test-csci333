@@ -1,0 +1,47 @@
+At age 12, Tracy Slatyer felt sorry for a book. She read a newspaper article about how lots of people were buying A Brief History of Time by Stephen Hawking. “But then … nobody was actually reading it,” she says. “People were just leaving it on their coffee tables.”
+
+Determined to rectify this wrong, Slatyer obtained a copy and diligently read each page. The famous physicist’s popular text revealed to her “that math was in some sense an expressive language for describing how things really work,” she says. “That, to me, was exciting.”
+
+Sign up for our newsletter We summarize the week's scientific breakthroughs every Thursday.
+
+These days, Slatyer, a theoretical physicist at MIT, uses her mathematical aptitude to dream up new ideas about dark matter. The mysterious substance makes up around 85 percent of the matter in the universe. Yet it has consistently eluded scientists’ attempts to pin it down. Slatyer tries to figure out what dark matter could be made from, how it might interact with itself or anything else and, most important, the consequences of those interactions.
+
+Physicists know dark matter exists because they can see its gravitational influence on galaxies, galaxy clusters and the overall evolution of the universe. Beyond that, there are few clues to work with. Slatyer has helped imagine the myriad ways that dark matter could leave some subtle signature on the fabric of reality that would show up in observations.
+
+Among scientists doing such work, “I don’t think there’s been anybody who’s been more impactful,” says Dan Hooper, a physicist at the University of Chicago. “She’s as big a deal as I can make her out to be.”
+
+Discovering the Fermi bubbles
+
+Born in the Solomon Islands, Slatyer grew up in Canberra, Australia. After her encounter with Hawking’s book, she knew she wanted to study physics. While in graduate school at Harvard University in the 2000s, she met physicist Douglas Finkbeiner, who was investigating mysterious signals at the Milky Way’s center.
+
+A research satellite had noticed odd excesses of positrons, the electron’s antiparticle, and high-energy photons called gamma rays that couldn’t be explained with conventional theories. Together, Slatyer and Finkbeiner began looking more deeply at a type of self-annihilating dark matter that might address the mystery. In their particular model, this dark matter would leave behind electrons and positrons, which would interact with starlight to create gamma rays.
+
+In 2008, NASA launched the Fermi Gamma-ray Space Telescope, which offered unprecedented views of high-energy photons emanating from the galactic plane. If dark matter was indeed self-annihilating, it would show up in Fermi’s observations. The next year, Slatyer and Finkbeiner used Fermi’s public data to hunt for the stuff.
+
+“We analyzed the data and saw this big fuzzy glow north and south of the galactic center,” Slatyer recalls. “So we’re like, ‘Victory!’”
+
+But the more they and another of Finkbeiner’s students, Meng Su, looked at the signals, the more they realized that this wasn’t dark matter. Fermi’s images revealed an enormous hourglass figure that stretched 25,000 light-years above and below the Milky Way’s plane. Dark matter is thought to be present in a diffuse halo all around our galaxy, but this structure had very sharp edges.
+
+Towering structures called the Fermi bubbles spread 25,000 light-years above and below the plane of the Milky Way, as shown in this artist’s impression. The mysterious structures are thought to be connected to processes in the galactic center, though nobody is sure of their origin. GSFC/NASA
+
+Supermassive black holes feeding on gas and dust in the centers of other galaxies have been known to belch out material into hourglass figures. Eventually, Slatyer and her colleagues realized that this could be something similar. These Fermi bubbles, as they came to be known, have been the subject of numerous follow-up studies, leading to a long-running debate over the mechanisms driving the bubbles’ creation (SN: 11/9/10; SN: 4/20/23).
+
+Slatyer hadn’t found dark matter, but, she says, “I try not to complain when nature gives me exciting new things, whether or not they were what I was looking for in the first place.”
+
+Sponsor Message
+
+Dark matter in the early universe
+
+Much of her work since then has focused on different dark matter scenarios. For instance, some of her research has looked at how the mysterious substance could have annihilated or decayed in the early universe, leaving behind fundamental particles that would cause small variations in the expected temperature of the overall cosmos. Such an effect might show up in the cosmic microwave background, or CMB, a remnant light left over from when the universe was just 380,000 years old.
+
+Satellites measuring this light have found that it indicates the cosmos had almost exactly the same temperature no matter which direction they look, with deviations of only one part in 100,000. Slatyer and her colleagues calculated that, if dark matter annihilation happened, it might have generated an even subtler temperature signature, down to one part in a million. Her team reported in 2023 how the presence of self-annihilating dark matter would distort the CMB — a signal for future instruments to look for.
+
+In a study published in May 2024, she and colleagues looked at other potential effects of excessive heat in the early universe from dark matter. Under some scenarios, this higher temperature might have generated surplus free electrons. Those free electrons could have acted as catalysts for chemical reactions that would have favored the formation of stars, possibly leading to the creation of enormous numbers of stars very early on.
+
+Other teams have suggested that excess heat would have pushed gas and dust around more readily, a motion that may have reduced star formation. In that case, larger clumps of material might have instead collapsed into massive black holes, which could have become seeds around which the first galaxies coalesced.
+
+Such ideas could help explain what the James Webb Space Telescope has been seeing as it peers into cosmic history. The telescope appears to have found unexpectedly large black holes and galaxies early in the universe (SN: 3/4/24). Slatyer and her colleagues are suggesting that dark matter may be the culprit behind these strangely massive cosmic objects.
+
+By taking her theories to their logical conclusions, Slatyer has made herself invaluable to the community of theoretical and observational physicists searching for dark matter. “She’s one of these people who’s kind of ubiquitous,” Finkbeiner says. “She shows up at every meeting. She has her finger in every pie. She’s on every panel to figure out what the field should do for the next 10 years.”
+
+Given how little researchers know about dark matter, Slatyer thinks it’s important to imagine a wide range of potential possibilities and then come up with experiments to test those options. “We try to … make sure that we don’t miss anything blindingly obvious,” she says.

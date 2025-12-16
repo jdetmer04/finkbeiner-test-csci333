@@ -1,0 +1,27 @@
+On a video call in early September, Sarah Tabrizi first saw the data that she and other researchers studying Huntington’s disease had been chasing for decades: compelling evidence that a gene-targeting therapy could slow the relentless progression of the neurodegenerative brain disorder.
+
+Before these results, “I was beginning to get a little bit worried that maybe, by the time people develop symptoms, that it was going to be too late to treat”, says Tabrizi, a neurologist who directs the Huntington’s Disease Centre at University College London. But here was powerful validation that the window for treating the rare, hereditary condition remains open — offering a chance for meaningful, disease-modifying interventions.
+
+“It’s a giant step forward,” says Tabrizi, who was the trial’s lead scientific adviser. “The dial has been shifted.”
+
+The first-in-class gene therapy — called AMT-130 and developed by uniQure, a biotechnology company in Amsterdam — uses a harmless virus to deliver strands of genetic material into affected brain regions. Once there, the therapy switches off production of the faulty mutant huntingtin protein that slowly destroys brain cells.
+
+The clinical data set was small, involving just 12 people who received a high dose of the therapy. And the treatment is invasive, requiring lengthy brain surgery. But the results were striking. On a standard rating scale used to assesses motor and cognitive functions and other measures of daily living, the scores of participants receiving the high dose dropped by just 0.38 points over three years. That’s compared with a reduction of 1.52 points for people in a control group, meaning that the treatment slowed the rate of decline by 75%. That clinical benefit was reinforced by molecular validation: spinal-fluid levels of a protein linked to dying brain cells had gone down in the treatment recipients, the opposite of what typically occurs as the disease progresses.
+
+After digesting the findings, Tabrizi and her close collaborator Ed Wild, a fellow neurologist at University College London, shared what Wild describes as a “massive hug”. But, after that, it was right back to the daily demands of patient care and research. “We’ll celebrate very unreservedly — but briefly,” Wild says. “We’re like an episode of The West Wing: it’s always, ‘What’s next?’”
+
+Next for Tabrizi and Wild are leading roles in evaluating five other huntingtin-lowering therapies in clinical development, along with several others poised to enter human trials soon. Tabrizi is also spearheading laboratory studies into the mechanisms of neurodegeneration — work that could yield many other drug candidates in the future.
+
+“Sarah is amazing,” says Hugh Rickards, a neuropsychiatrist at the University of Birmingham, UK. “She’s the spider in the middle of the web. You name a disease-modifying therapy in HD — she’s got her hand on it somewhere.”
+
+Plus, “she’s one of the nicest people you’ll ever meet”, says Samuel Frank, a neurologist at the Beth Israel Deaconess Medical Center in Boston, Massachusetts, who, like Rickards, has worked with Tabrizi on Huntington’s trials.
+
+Playing a part in nearly every important clinical advance means that she also carries the scars of the field’s most agonizing disappointments. Only four years ago, another promising huntingtin-targeted therapy, tominersen, faltered in late-stage trials. Overall, the drug failed to improve people’s outcomes compared with those of the control group and it came with dangerous side effects at higher doses. As principal investigator of the nearly 800-person study, the unenviable task of explaining the results to participating families fell to Tabrizi. “It was heartbreaking,” she says.
+
+She recalls her message to the distraught community: “Trials are scientific experiments,” she says. “Through failure, as painful as it is, is often how you learn.”
+
+Tabrizi took her own advice to heart. She helped to chart a path forwards for tominersen, contributing to the design of a trial with a new dosing regimen in relatively young individuals with a milder form of the disease. Early indications suggest the dosing regimen is safer. She also led a field-wide push to refine clinical-trial designs for Huntington’s research.
+
+Lessons learnt along the way informed the development of AMT-130, a drug now hailed by many as the most promising advance in Huntington’s treatment so far. Although regulators might require further data before the therapy can be evaluated for market approval, enthusiasm for the science behind it remains strong. What’s more, AMT-130’s success marks an important victory for the gene-therapy field more broadly, which in recent months has been shaken by the deaths of several people, including children, in clinical trials and in early-access settings.
+
+But Tabrizi is focused not just on treating Huntington’s: she is working to prevent it. For the past eight years, she has led one of the largest studies of brain health in young adults who carry the disease-causing mutation but are still decades away from developing symptoms. In January, her team reported that these individuals already show subtle changes in their brains and molecular signs of neuronal stress — a finding that Tabrizi hopes will justify intervening at an earlier stage (R. I. Scahill et al. Nature Med. 31, 807–818; 2025). “It’s all part of a big plan,” she says. “I want to see if we can prevent Huntington’s from ever occurring.”
