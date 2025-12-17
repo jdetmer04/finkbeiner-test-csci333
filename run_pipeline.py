@@ -5,7 +5,21 @@ import random
 
 def main():
     # 1. Scrape
-    urls = [['https://news.mit.edu/2025/john-marshall-erin-kara-postdoctoral-mentoring-award-1114', 0],
+    urls = [['https://www.aip.org/aip/awards/priyamvada-natarajan-wins-2025-dannie-heineman-prize-for-astrophysics', 2],
+            ['https://news.yale.edu/2025/01/16/natarajan-wins-2025-dannie-heineman-prize-astrophysics', 0],
+            ['https://www.timeshighereducation.com/research/tecnologico-de-monterrey/janet-gutierrez-food-research-can-transform-health-and-entrepreneurship', 2],
+            ['https://www.geosociety.org/GSA/GSA/Awards/2019/penrose.aspx', 1],
+            ['https://dyslexia.yale.edu/story/carol-greider-ph-d/', 1],
+            ['https://royalsociety.org/people/sarah-otto-36798/', 0],
+            ['https://www.amacathera.com/dr-molly-shoichet', 0],
+            ['https://aeespfoundation.org/distinguished-lecture-series/2023-24', 0],
+            ['https://www.openplastic.com/team/elizabeth-edwards', 0],
+            ['https://www.isscr.org/isscr-news/janet-rossant-takes-the-helm-at-isscrs-stem-cell-reports-as-editor-in-chief', 0],
+            ['https://www.gairdner.org/bio/janet-rossant', 0],
+            ['https://nationalmedals.org/laureate/elaine-fuchs/', 0],
+            ['https://www.simonsfoundation.org/people/elaine-fuchs/', 0],
+            ['https://blogs.ubc.ca/holocaustliterature/articles/martha-salcudean-the-journey-of-persistence-to-trailblazing/', 2],
+            ['https://news.mit.edu/2025/john-marshall-erin-kara-postdoctoral-mentoring-award-1114', 0],
             ['https://news.mit.edu/2025/joy-of-life-sciences-mary-gallagher-1028', 1],
             ['https://news.mit.edu/2025/mit-senior-turns-waste-from-fishing-industry-into-biodegradable-plastic-1112', 0],
             ['https://news.mit.edu/2023/professor-emerita-evelyn-fox-keller-dies-0925', 1],

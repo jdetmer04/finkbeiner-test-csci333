@@ -1,0 +1,39 @@
+Pluto pulled Adeene Denton into its orbit during her undergraduate internship at the Lunar and Planetary Institute in Houston. It was summer 2015, when the New Horizons spacecraft zoomed past the dwarf planet.
+
+“The Pluto flyby happened, and I was in the right place at the right time — perfectly positioned to fall in love with it,” says Denton, a planetary scientist at the Southwest Research Institute in Boulder, Colo. “And I did.”
+
+The dwarf planet became the center of her world. She ran computer simulations to study how objects may have hit Pluto, shaping its history. Some of her research suggests that Pluto acquired its largest moon, Charon, through a “kiss-and-capture” collision, and that the dwarf planet’s heart-shaped feature may hide the rocky remnant from an ancient impact.
+
+Sign up for our newsletter We summarize the week's scientific breakthroughs every Thursday.
+
+Denton is currently taking a break from Pluto. Last year, she was an astronomer in residence at Grand Canyon National Park, where she, a lifelong dancer, choreographed a dance connecting the canyon’s history with space exploration. Now, Denton is studying Saturn’s moons, looking at why Enceladus, with its icy geysers, is more geologically active than its neighbors. “There are so many cool solar system bodies out there that we know so little about,” she says.
+
+TRANSCRIPT
+
+Adeene Denton: I was there the day that the first photos came back of Pluto, and you get that incredible picture of Pluto with its heart and all of those amazing colors. And I was like, Pluto is the coolest thing ever. It’s so cool. How is it doing all that? How is it so geologically active when it’s so far away? There’s nothing to power the geology, and yet it has it. I just thought it was amazing. So I really wanted to figure out what was going on.
+
+I am interested in trying to understand the origin of Pluto and its large moon, Charon, specifically because Pluto’s moon is unusually large. Charon is one third the size of Pluto, and that’s kind of strange. You know, it’s actually the most similar to our moon. We also have an unusually large moon. The origin story for the moon being unusually large is that we think a large object crashed into the Earth and then formed the moon, and with Pluto and Charon, something similar probably happened.
+
+But the problem is there’s a lot of differences between Pluto and Charon and the Earth and the moon. The biggest being that Pluto is 17 percent the size of the moon, so it’s a lot smaller. We’ve been trying to do these simulations for decades now, trying to reproduce Pluto and Charon. And what we’ve done is basically kind of take the Earth–Moon system and scale it down.
+
+But what if we dug into it a little bit deeper and implemented a few additional things in the code to make Pluto and Charon behave geologically realistically?
+
+When two bodies collide in space, they’re not necessarily being pushed. What’s actually happening is they’re experiencing mutual gravitational attraction, and that causes them to accelerate towards each other. So the Earth and the moon being big, accelerate towards each other really fast. Pluto and Charon being really much smaller, it’s much more gentle. So all of these things come into play.
+
+And the research that we did was looking at how bringing a little bit more geology into these models can change the outcome. And we found that it actually changes things a lot. It changes how the impact works. And the new paradigm is called “kiss and capture” because of how it works. So Charon enters from one side, collides with Pluto, and Charon kind of pushes into Pluto. But Pluto resists the deformation, so they get stuck together and that’s the kiss. And then they rotate as one body for a little bit. But because Pluto is already spinning prior to impact, it’s spinning like a planet would do, even though they’re stuck together, Charon kind of lags behind. And that creates torque that then causes Pluto to loft Charon back off and separates it as an independent satellite. It starts to slowly expand. That’s what I’ve been interested in.
+
+In the last phase of planetary formation, when all of the planets were finishing up, is when things like the Earth–Moon formation impact happened and stuff like this. So back then there was a lot of larger things hitting things. So that means that, so this part is billions of years old, probably. And the problem then becomes billions of years have happened.
+
+So how do we get from it forming to it today? So my project was to try to simulate the creation of that basin, and then try to then evolve it through geologic time to get it to today. We don’t have the technology to do both of those things at once. And the reason for that is because the formation of an impact crater happens in a matter of seconds to hours, and the subsequent geologic evolution happens over millions, hundreds of millions of years.
+
+Sponsor Message
+
+So I was having to develop all of these ways to kind of learn the first code, figure out how to take the data out of the first code, put it into the second code, do all this stuff. And I was constantly running models and trying to figure things out, and it, kind of, it ate my life.
+
+I think we’re often told in science, and also it’s shown in the media, right, that if you want to be a brilliant scientist, you need to live for it to the detriment of your health. That’s what you need to do if you’re truly committed. And so I tried that. And I don’t think it worked very well.
+
+And once I got out of that, I was able to rebalance myself and say, OK, I love Pluto and I love what I do, but I need to live — is when I was able to get it together and do some of my better science, I think.
+
+There are many people that science excludes. It was built for a certain kind of person, and now we are entering a phase in which a bunch of people have been previously marginalized in society as well as in science now want to do science. And that includes me, and I think everybody who has made it this far in science owes it to all of the people that are coming after them to work as hard as we can to try to make it a better place.
+
+I’m excited about the research. I love the research. I’m going to do it for as long as I absolutely can, and I’m very focused on just enjoying being here, getting to be a scientist in the field, getting to do science, and however long that journey is, I will try to make it as long as possible.

@@ -1,0 +1,102 @@
+As a child in Hilo, one of the less touristy parts of Hawaii, Jennifer A. Doudna felt out of place. She had blond hair and blue eyes, and she was taller than the other kids, who were mostly of Polynesian and Asian descent.
+
+“I think to them I looked like a freak,” she recently recalled. “And I felt like a freak.”
+
+Her isolation contributed to a kind of bookishness that propelled her toward science. Her upbringing “toughened her up,” said her husband, Jamie Cate. “She can handle a lot of pressure.”
+
+These days, that talent is being put to the test.
+
+Three years ago, Dr. Doudna, a biochemist at the University of California, Berkeley, helped make one of the most monumental discoveries in biology: a relatively easy way to alter any organism’s DNA, just as a computer user can edit a word in a document.
+
+The discovery has turned Dr. Doudna (the first syllable rhymes with loud) into a celebrity of sorts, the recipient of numerous accolades and prizes. The so-called Crispr-Cas9 genome editing technique is already widely used in laboratory studies, and scientists hope it may one day help rewrite flawed genes in people, opening tremendous new possibilities for treating, even curing, diseases.
+
+But now Dr. Doudna, 51, is battling on two fronts to control what she helped create.
+
+While everyone welcomes Crispr-Cas9 as a strategy to treat disease, many scientists are worried that it could also be used to alter genes in human embryos, sperm or eggs in ways that can be passed from generation to generation. The prospect raises fears of a dystopian future in which scientists create an elite population of designer babies with enhanced intelligence, beauty or other traits.
+
+Scientists in China reported last month that they had already used the technique in an attempt to change genes in human embryos, though on defective embryos and without real success.
+
+Dr. Doudna has been organizing the scientific community to prevent this ethical line from being crossed. “The idea that you would affect evolution is a very profound thing,” she said.
+
+She is also fighting for control of what could be hugely lucrative intellectual property rights to the genome editing technique. To the surprise of many, the first sweeping patents for the technology were granted not to her, but to Feng Zhang, a scientist at the Broad Institute and M.I.T.
+
+The University of California is challenging the decision, and the nasty skirmish has cast a bit of a pall over the field.
+
+“I really want to see this technology used to help people,” Dr. Doudna said. “It would be a shame if the I.P. situation would block that.”
+
+The development of the Crispr-Cas9 technique is a story in which obscure basic biological research turned out to have huge practical implications. For Dr. Doudna, though, it is only one accomplishment in a stellar career.
+
+“She’s been a high-impact scientist from the time she was a graduate student,” said Thomas Cech, a Nobel laureate and professor of chemistry and biochemistry at the University of Colorado, for whom Dr. Doudna was a postdoctoral researcher. “New topics, new fields of science, but she just has a knack for discovery.”
+A ‘Dumbstruck’ Moment
+
+Dr. Doudna was 7 when she moved to Hilo, where her father taught literature at the University of Hawaii campus there, and her mother lectured on history at a community college. Their daughter loved exploring the rain forests and was fascinated by how things worked. She found her calling in high school after hearing a lecture by a scientist about her research into how normal cells became cancerous.
+
+“I was just dumbstruck,” Dr. Doudna recalled. “I wanted to be her.”
+
+After studying biochemistry at Pomona College in California, she went to Harvard for graduate school. There her adviser, the future Nobel laureate Jack Szostak, was doing research on RNA. Some scientists believe that RNA, not DNA, was the basis of early life, since the molecule can both store genetic information and catalyze chemical reactions.
+
+Dr. Doudna earned her doctoral degree by engineering a catalytic RNA that could self-replicate, adding evidence to that theory. But her inability to visualize this catalytic RNA hindered her work.
+
+So as a postdoctoral researcher in Colorado, she decided to try to determine the three-dimensional atomic structure of RNA using X-ray diffraction — and succeeded, though she had had no formal training in the technique. Structural and biochemical studies of RNA in action have been her forte ever since.
+
+In 2000, while on the faculty at Yale, she won the Alan T. Waterman Award, given each year by the National Science Foundation to an exceptional young scientist. She moved to Berkeley in 2002.
+
+In 2005, Dr. Doudna was approached by Jillian Banfield, an environmental researcher at Berkeley who had been sequencing the DNA of unusual microbes that lived in a highly acidic abandoned mine. In the genomes of many of these microbes were unusual repeating sequences called “clustered regularly interspaced short palindromic repeats,” or Crispr.
+
+No one was quite sure what they did, though over the next few years scientists elsewhere established that these sequences were part of a bacterial immune system. Between the repeated sequences were stretches of DNA taken from viruses that had previously infected the bacteria — genetic most-wanted posters, so to speak.
+
+If the same virus invaded again, these stretches of DNA would permit the bacteria to recognize it and destroy it by slicing up its genetic material. Dr. Doudna was trying to figure out exactly how this happened.
+
+“I remember thinking this is probably the most obscure thing I ever worked on,” she said.
+
+It would prove to have wide use. At a conference in early 2011, she met Emmanuelle Charpentier, a French microbiologist at Umea University in Sweden, who had already made some fundamental discoveries about the relatively simple Crispr system in one bacterial species.
+
+The bacterial expert and the structural biologist decided to work together.
+
+“It was very enjoyable, because we were complementary,” said Dr. Charpentier, who recalled sitting in her office near the North Pole while Dr. Doudna regaled her with stories about Hawaii.
+
+Along with postdoctoral researchers Martin Jinek and Krzysztof Chylinski, the two scientists eventually figured out how two pieces of RNA join up with a protein made by the bacteria called Cas9 to cut DNA at a specific spot. The researchers also found that the two RNA pieces could be combined into one and still function.
+
+In a eureka moment, the scientists realized that this cellular defense system might be used to edit genomes, not just kill viruses.
+
+A specific sequence of guide RNA could be made to attach to a spot virtually anywhere on the genome, and the Cas9 protein would cleave the DNA at that spot. Then pieces of the DNA could be deleted or added, just as a film editor might cut a film and splice in new frames.
+
+The researchers demonstrated this using DNA in a test tube. While there were other genome editing techniques, they found that Crispr-Cas9 was much simpler.
+
+The paper describing the technique, published by the journal Science in June 2012, set off a race to see if it would work in human, plant and animal cells.
+
+Dr. Doudna, whose expertise was in working with molecules, not cells, reported such a demonstration in human cells in January 2013. But her report came four weeks after two papers were published simultaneously, one by George Church at Harvard and the other by the Broad Institute’s Dr. Zhang.
+The Patent Fight
+
+Now the University of California and the Broad Institute are arguing before the federal patent office over whether Dr. Doudna or Dr. Zhang, who last year received the Waterman Award for young scientists that Dr. Doudna had won years earlier, was the first to invent the genome editing technique. So far, the patents have gone to Dr. Zhang.
+
+The Broad Institute claims that the paper by Dr. Doudna and Dr. Charpentier in 2012 did not demonstrate how to alter DNA in cells with nuclei, including human cells, something requiring the inventive steps that Dr. Zhang took. His patent application included pages from a lab notebook he said demonstrated that he was doing Crispr genome editing even before the 2012 paper was published.
+
+The University of California says it filed for a patent months before Dr. Zhang did, though the Broad Institute says that initial application lacked necessary details. The university’s request to the patent office says that once the 2012 paper laid out the recipe, it was obvious how to use it in cells. The university also says Dr. Zhang’s notebook does not prove he could edit genomes before the 2012 paper.
+
+Patent disputes are often settled in time. In any event, Dr. Church of Harvard said, before Crispr-Cas9 could be used to treat disease, it would need important refinements from many other researchers.
+
+“It’s going to be hard to use Feng’s without Jennifer’s, and it would be hard to use either of them without further improvements,” he said.
+
+The scientists have formed competing companies with rights to their patents and pending patents. Dr. Doudna co-founded Caribou Biosciences to work on research uses of Crispr-Cas9, and more recently, Intellia Therapeutics to work on disease treatments.
+
+Dr. Church and Dr. Zhang are co-founders of Editas Medicine, which Dr. Doudna also helped start but then withdrew from. Dr. Charpentier, who is now at the Helmholtz Center for Infection Research in Germany, helped start Crispr Therapeutics. She and Dr. Doudna remain friends, but no longer collaborate on research.
+
+Even before the dust settles, researchers are moving ahead. While contending with the patents, Dr. Doudna began hearing reports that researchers were trying to use Crispr-Cas9 to make inheritable DNA changes in embryos. Genetically altered monkeys had already been created in China using the technique.
+
+“It’s very far afield from the kind of chemistry I think about and know about,” she said. Still, she felt it would be irresponsible to ignore the rumors.
+
+She organized a meeting of leading biologists in Napa, Calif., in January. In a subsequent commentary published in Science, the group called for a moratorium on attempts to create altered babies, though they said basic research on inheritable changes should still be done.
+
+Dr. Doudna said it was not practical to prohibit basic research. “You can’t really put a lid on it, even if you wanted to,” she said. She and others are trying to organize a bigger international meeting with participants from companies and governments as well as universities, possibly to set new guidelines.
+Learning to Live With Fame
+
+She is also trying to cope with her newfound quasi-celebrity status. She has been invited to hobnob with entrepreneurs in Silicon Valley, to speak to science fiction writers, to advise Hollywood on science-themed movies. The garden, her hobby, has had to wait.
+
+In November, Dr. Doudna and Dr. Charpentier were each awarded $3 million Breakthrough Prizes, endowed by leading Internet entrepreneurs. They accepted their awards at an Oscars-like black-tie affair attended by movie stars like Cameron Diaz and Benedict Cumberbatch. Recently Time magazine listed the two scientists among the 100 most influential people in the world.
+
+Dr. Doudna, who has a 12-year-old son, Andrew, also finds herself a role model for women in science. Her secret: “I have a great partner,” with whom she shares the chores.
+
+Her husband, Dr. Cate, is also a professor at Cal-Berkeley. The couple have adjacent offices, with views of the Golden Gate Bridge in the distance. Dr. Cate also studies RNA; there is some overlap, but mostly they do their own research. Andrew walks to their office from his middle school each afternoon and hangs out until his parents are ready to go home.
+
+“I don’t think of myself as a role model, but I can see that I am,” Dr. Doudna said. “I still think of myself as that person back in Hawaii.”

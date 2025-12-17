@@ -1,3 +1,195 @@
-Since 1901, Nobel Prizes have been awarded to individuals with outstanding achievements in physics, chemistry, physiology or medicine, literature, and for their work in peace. The field of gene editing has been no exception. There have been several breakthroughs throughout the history of gene editing, and many key scientists played a pivotal role in these milestones.
+In this March 14, 2016 file photo American biochemist Jennifer A. Doudna, left, and the French microbiologist Emmanuelle Charpentier, right, poses for a photo in Frankfurt, Germany. French scientist Emmanuelle Charpentier and American Jennifer A. Doudna have won the Nobel Prize 2020 in chemistry for developing a method of genome editing likened to 'molecular scissors' that offer the promise of one day curing genetic diseases. (Alexander Heinl/dpa via AP)
 
-Over the years, CRISPR technology has become synonymous with genetic engineering, and people have been pondering the question “Will CRISPR win a Nobel Prize?”. Well, we are excited to break it to you that the wait is finally over! Emmanuelle Charpentier and Jennifer Doudna have recently won the prize for their contribution to the discovery of CRISPR. In this article, we will take you through the journey of CRISPR discovery and the researchers that played a vital role in the development of this technology as well as past Nobel Prize winners that have contributed to the field of genome editing.
+The Nobel Prize in chemistry went to two researchers Wednesday for a gene-editing tool that has revolutionized science by providing a way to alter DNA, the code of life—technology already being used to try to cure a host of diseases and raise better crops and livestock.
+
+Emmanuelle Charpentier of France and Jennifer A. Doudna of the United States won for developing CRISPR-cas9, a very simple technique for cutting a gene at a specific spot, allowing scientists to operate on flaws that are the root cause of many diseases.
+
+"There is enormous power in this genetic tool," said Claes Gustafsson, chair of the Nobel Committee for Chemistry.
+
+More than 100 clinical trials are underway to study using CRISPR to treat diseases, and "many are very promising," according to Victor Dzau, president of the National Academy of Medicine.
+
+"My greatest hope is that it's used for good, to uncover new mysteries in biology and to benefit humankind," said Doudna, who is affiliated with the University of California, Berkeley, and is paid by the Howard Hughes Medical Institute, which also supports The Associated Press' Health and Science Department.
+
+The prize-winning work has opened the door to some thorny ethical issues: When editing is done after birth, the alterations are confined to that person. Scientists fear CRISPR will be misused to make "designer babies" by altering eggs, embryos or sperm—changes that can be passed on to future generations.
+
+French microbiologist Emmanuelle Charpentier poses near a statue of Max Planck in Berlin, Germany, Wednesday, Oct. 7, 2020. French scientist Emmanuelle Charpentier and American Jennifer A. Doudna have won the Nobel Prize 2020 in chemistry for developing a method of genome editing likened to 'molecular scissors' that offer the promise of one day curing genetic diseases. (AP Photo/Markus Schreiber)
+
+Much of the world became aware of CRISPR in 2018, when Chinese scientist He Jiankui revealed he had helped make the world's first gene-edited babies, to try to engineer resistance to infection with the AIDS virus. His work was denounced as unsafe human experimentation, and he has been sentenced to prison in China.
+
+In September, an international panel of experts issued a report saying it is too soon to try such experiments because the science isn't advanced enough to ensure safety.
+
+"Being able to selectively edit genes means that you are playing God in a way," said American Chemical Society President Luis Echegoyen, a chemistry professor at the University of Texas El Paso.
+
+Dr. George Daley, dean of Harvard Medical School, said: "New technology often presents this dichotomy—there is immense potential for human benefit, especially for disease treatment, but also the risk of misapplication."
+
+French microbiologist Emmanuelle Charpentier talks to media people in Berlin, Germany, Wednesday, Oct. 7, 2020. French scientist Emmanuelle Charpentier and American Jennifer A. Doudna have won the Nobel Prize 2020 in chemistry for developing a method of genome editing likened to 'molecular scissors' that offer the promise of one day curing genetic diseases. (AP Photo/Markus Schreiber)
+
+However, scientists universally praised the great potential that gene editing has for patients now.
+
+"There's no aspect of biomedical research that hasn't been touched by CRISPR," which has been used to engineer better crops and to try to cure human diseases including sickle cell, HIV infection and inherited forms of blindness, said Dr. Kiran Musunuru, a genetics expert at the University of Pennsylvania who is researching it for heart disease.
+
+Doudna said CRISPR also has the potential to be used to engineer plants to store more carbon or to withstand extremes of climate change, giving researchers a chance to "address urgent problems humanity is facing."
+
+It's the fourth time in the 119-year history of the prizes that a Nobel in the sciences was given exclusively to women.
+
+Charpentier, the 51-year-old leader of the Max Planck Unit for the Science of Pathogens in Berlin, said that while she considers herself first and foremost a scientist, "it's reflective of the fact that science becomes more modern and involves more female leaders."
+
+In this May 19, 2015 file photo French microbiologist Emmanuelle Charpentier poses for a photo in Brunswick, Germany. French scientist Emmanuelle Charpentier and American Jennifer A. Doudna have won the Nobel Prize 2020 in chemistry for developing a method of genome editing likened to 'molecular scissors' that offer the promise of one day curing genetic diseases. (Peter Steffen/dpa via AP)
+
+"I do hope that it will remain and even develop more in this direction," she said, adding that it is "more cumbersome to be a woman in science than to be a man in science."
+
+Three times a woman has won a Nobel in the sciences by herself; this is the first time an all-female team won a science prize. In 1911, Marie Curie was the sole recipient of the chemistry award, as was Dorothy Crowfoot Hodgkin in 1964. In 1983, Barbara McClintock won the Nobel in medicine.
+
+Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys.org for daily insights. Sign up for our free newsletter and get updates on breakthroughs, innovations, and research that matter—daily or weekly.
+
+The breakthrough research done by Charpentier and Doudna was published in 2012, making the discovery very recent compared with a lot of other Nobel-winning research, which is often honored only after decades have passed.
+
+Dr. Francis Collins, who led the drive to map the human genome, said the technology "has changed everything" about how to approach diseases with a genetic cause.
+
+In this March 14, 2016 file photo French microbiologist Emmanuelle Charpentier poses for a photo in Frankfurt, Germany. French scientist Emmanuelle Charpentier and American Jennifer A. Doudna have won the Nobel Prize 2020 in chemistry for developing a method of genome editing likened to 'molecular scissors' that offer the promise of one day curing genetic diseases. (Alexander Heinl/dpa via AP)
+
+"You can draw a direct line from the success of the human genome project to the power of CRISPR-cas to make changes in the instruction book," said Collins, director of the U.S. National Institutes of Health, which helped fund Doudna's work.
+
+The Broad Institute, jointly run by Harvard and MIT, has been in a court fight with the Nobel winners over patents on CRISPR technology, and many other scientists did important work on it, but Doudna and Charpentier have been most consistently honored with prizes for turning it into an easily usable tool.
+
+Feng Zhang, the Broad scientist most known for that work, made no comment on the awards, but the Broad's director, Eric Lander, messaged congratulations on Twitter to the winners. Another Broad gene editing scientist, David Liu, noted on Twitter that the winners' seminal research paper in 2012 has been cited more than 9,500 times, or about once every eight hours.
+
+This Tuesday, Dec. 1, 2015 file combo image shows Emmanuelle Charpentier, left, and Jennifer Doudna, both speaking at the National Academy of Sciences international summit on the safety and ethics of human gene editing, in Washington. The 2020 Nobel Prize for chemistry has been awarded to Emmanuelle Charpentier and Jennifer Doudna "for the development of a method for genome editing." A panel at the Swedish Academy of Sciences in Stockholm made the announcement Wednesday Oct. 7, 2020. (AP Photo/Susan Walsh, File)
+
+In this March 14, 2016 file photo American biochemist Jennifer A. Doudna poses for a photo in Frankfurt, Germany. French scientist Emmanuelle Charpentier and American Jennifer A. Doudna have won the Nobel Prize 2020 in chemistry for developing a method of genome editing likened to 'molecular scissors' that offer the promise of one day curing genetic diseases. (Alexander Heinl/dpa via AP)
+
+In this Dec. 1, 2015, file photo, Jennifer Doudna, a University of California, Berkeley, co-inventor of the CRISPR gene-editing tool that He Jiankui used, speaks at the National Academy of Sciences international summit on the safety and ethics of human gene editing, in Washington. The 2020 Nobel Prize for chemistry has been awarded to Emmanuelle Charpentier and Jennifer Doudna "for the development of a method for genome editing." A panel at the Swedish Academy of Sciences in Stockholm made the announcement Wednesday Oct. 7, 2020. (AP Photo/Susan Walsh, File)
+
+Professor Pernilla Wittung Stafshede, left, and Goran K. Hansson, Secretary General of the Academy of Sciences, after announcing the winners of the 2020 Nobel prize in Chemistry during a news conference at the Royal Swedish Academy of Sciences, in Stockholm, Sweden, Wednesday Oct. 7, 2020. The 2020 Nobel Prize for chemistry has been awarded to Emmanuelle Charpentier, left on screen, and Jennifer Doudna "for the development of a method for genome editing." (Henrik Montgomery/TT via AP)
+
+The Nobel comes with a gold medal and 10 million kronor (more than $1.1 million), courtesy of a bequest left more than a century ago by the prize's creator, Alfred Nobel, the inventor of dynamite.
+
+On Monday, the Nobel in medicine was awarded for the discovery of the liver-ravaging hepatitis C virus. Tuesday's prize in physics honored breakthroughs in understanding black holes. The prizes in literature, peace and economics will be awarded in the coming days.
+
+The Nobel Foundation announcement:
+
+The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Chemistry 2020 to
+
+Emmanuelle Charpentier
+
+Max Planck Unit for the Science of Pathogens, Berlin, Germany
+
+Jennifer A. Doudna
+
+University of California, Berkeley, USA
+
+"for the development of a method for genome editing"
+
+Genetic scissors: a tool for rewriting the code of life
+
+Emmanuelle Charpentier and Jennifer A. Doudna have discovered one of gene technology's sharpest tools: the CRISPR/Cas9 genetic scissors. Using these, researchers can change the DNA of animals, plants and microorganisms with extremely high precision. This technology has had a revolutionary impact on the life sciences, is contributing to new cancer therapies and may make the dream of curing inherited diseases come true.
+
+Researchers need to modify genes in cells if they are to find out about life's inner workings. This used to be time-consuming, difficult and sometimes impossible work. Using the CRISPR/Cas9 genetic scissors, it is now possible to change the code of life over the course of a few weeks.
+
+"There is enormous power in this genetic tool, which affects us all. It has not only revolutionised basic science, but also resulted in innovative crops and will lead to ground-breaking new medical treatments," says Claes Gustafsson, chair of the Nobel Committee for Chemistry.
+
+As so often in science, the discovery of these genetic scissors was unexpected. During Emmanuelle Charpentier's studies of Streptococcus pyogenes, one of the bacteria that cause the most harm to humanity, she discovered a previously unknown molecule, tracrRNA. Her work showed that tracrRNA is part of bacteria's ancient immune system, CRISPR/Cas, that disarms viruses by cleaving their DNA.
+
+Charpentier published her discovery in 2011. The same year, she initiated a collaboration with Jennifer Doudna, an experienced biochemist with vast knowledge of RNA. Together, they succeeded in recreating the bacteria's genetic scissors in a test tube and simplifying the scissors' molecular components so they were easier to use.
+
+In an epoch-making experiment, they then reprogrammed the genetic scissors. In their natural form, the scissors recognise DNA from viruses, but Charpentier and Doudna proved that they could be controlled so that they can cut any DNA molecule at a predetermined site. Where the DNA is cut it is then easy to rewrite the code of life.
+
+Since Charpentier and Doudna discovered the CRISPR/Cas9 genetic scissors in 2012 their use has exploded. This tool has contributed to many important discoveries in basic research, and plant researchers have been able to develop crops that withstand mould, pests and drought. In medicine, clinical trials of new cancer therapies are underway, and the dream of being able to cure inherited diseases is about to come true. These genetic scissors have taken the life sciences into a new epoch and, in many ways, are bringing the greatest benefit to humankind.
+
+***************************
+
+One of the attractions of science is that it is unpredictable – you can never know in advance where an idea or a question may lead. Sometimes a curious mind will meet a dead end, sometimes it will encounter a thorny labyrinth that takes years to navigate. But, now and again, she realises she is the first person ever to gaze upon a horizon of untold possibility.
+
+The gene editor called CRISPR-Cas9 is one such unexpected discovery with breathtaking potential. When Emmanuelle Charpentier and Jennifer Doudna started investigating the immune system of a Streptococcus bacterium, one idea was that they could perhaps develop a new form of antibiotic. Instead, they discovered a molecular tool that can be used to make precise incisions in genetic material, making it possible to easily change the code of life.
+
+A powerful tool that affects everyone
+
+Just eight years after their discovery, these genetic scissors have reshaped the life sciences. Biochemists and cell biologists can now easily investigate the functions of different genes and their possible role in the progression of disease. In plant breeding, researchers can give plants specific characteristics, such as the ability to withstand drought in a warmer climate. In medicine, this gene editor is contributing to new cancer therapies and the first studies attempting to cure inherited diseases.
+
+There are almost endless examples of how CRISPR-Cas9 could be used, which also include unethical applications. As with all powerful technology, these genetic scissors need to be regulated. More on that later.
+
+In 2011, neither Emmanuelle Charpentier nor Jennifer Doudna had any idea that their first meeting, in a café in Puerto Rico, was a life-changing encounter. We will start by presenting Charpentier, who initially proposed their collaboration.
+
+Charpentier is fascinated by pathogenic bacteria
+
+Some people have called her driven, attentive and thorough. Others say that Emmanuelle Charpentier always looks for the unexpected. Herself, she quotes Louis Pasteur, "Chance favours the prepared mind". The urge to make new discoveries and the desire to be free and independent have governed her path. Including her doctoral studies at the Institut Pasteur in Paris, she has lived in five different countries, seven different cities and worked at ten different institutions.
+
+Her surroundings and approaches have shifted, but the majority of her research has one common denominator: pathogenic bacteria. Why are they so aggressive? How do they develop their resistance to antibiotics? And is it possible to find new treatments that can stop their progress?
+
+In 2002, when Emmanuelle Charpentier started her own research group at the University of Vienna, she focused on one of the bacteria that cause the greatest harm to humanity: Streptococcus pyogenes. Every year, it infects millions of people, often causing easily treatable infections such as tonsillitis and impetigo. However, it can also cause life-threatening sepsis and break down the soft tissues in the body, giving it a reputation as a 'flesh eater'.
+
+To better understand S. pyogenes, Charpentier began by thoroughly investigating how this bacterium's genes are regulated. This decision was the first step on the path to the discovery of the genetic scissors – but before we walk further along that road, we will find out more about Jennifer Doudna. Because while Charpentier is making detailed studies of S. pyogenes, Doudna hears – for the first time – an abbreviation that she thinks sounds like crisper.
+
+Science – as much adventure as a detective story
+
+Even as a child growing up on Hawaii, Jennifer Doudna had a strong urge to know things. One day, her father placed James Watson's book The Double Helix on her bed. This detective-style story about how James Watson and Francis Crick solved the structure of the DNA molecule was like nothing she had read in her school textbooks. She was captivated by the scientific process and realised that science is more than just facts.
+
+However, when she started to solve scientific mysteries, her attention was not on DNA, but on its molecular sibling: RNA. In 2006 – when we meet her – she is leading a research group at the University of California, Berkeley, and has two decades' experience of working with RNA. She has a reputation as a successful researcher with a nose for ground-breaking projects, and has recently entered an exciting new field: RNA interference.
+
+For many years, researchers had believed that they understood the basic function of RNA, but they suddenly discovered lots of small RNA molecules that help regulate gene activity in cells. Jennifer Doudna's involvement in RNA interference is the reason why, in 2006, she gets a phone call from a colleague in a different department.
+
+Bacteria carry an ancient immune system
+
+Her colleague, who is a microbiologist, tells Doudna about a new discovery: when researchers compare the genetic material of vastly different bacteria, as well as archaea (a type of microorganism), they find repetitive DNA sequences that are surprisingly well preserved. The same code appears over and over again, but between the repetitions there are unique sequences that differ. It is like the same word is being repeated between each unique sentence in a book.
+
+These arrays of repeated sequences are called clustered regularly interspaced short palindromic repeats, abbreviated as CRISPR. The interesting thing is that the unique, non-repetitive sequences in CRISPR appear to match the genetic code of various viruses, so the current thinking is that this is one part of an ancient immune system that protects bacteria and archaea from viruses. The hypothesis is that if a bacterium has succeeded in surviving a virus infection, it adds a piece of the virus' genetic code into its genome as a memory of the infection.
+
+No one yet knows how all this works, says her colleague, but the suspicion is that the mechanism used by bacteria to neutralise a virus is similar to that studied by Doudna: RNA interference.
+
+Doudna maps a complex machinery
+
+This news is both remarkable and thrilling. If it is true that bacteria have an ancient immune system, then this is a big deal. Jennifer Doudna's sense of molecular intrigue comes to life and she starts to learn everything she can about the CRISPR system.
+
+It turns out that, in addition to the CRISPR sequences, researchers have discovered special genes that they have called CRISPR-associated, abbreviated as cas. What Doudna finds interesting is that these genes are very similar to genes that code for already known proteins that specialise in unwinding and cutting up DNA. So do the Cas proteins have the same function? Do they cleave virus DNA?
+
+She puts her research group to work and, after a few years, they have succeeded in revealing the function of several different Cas proteins. In parallel, a handful of other research groups at other universities are studying the newly discovered CRISPR/Cas system. Their mapping shows that bacteria's immune systems can take very different forms. The CRISPR/Cas system studied by Doudna belongs to class 1; it is a complex machinery that requires many different Cas proteins to disarm a virus. The class 2 systems are significantly simpler because they need fewer proteins. In another part of the world, Emmanuelle Charpentier has just come across such a system. Back to her.
+
+A new and unknown piece of the CRISPR-system puzzle
+
+When we left Emmanuelle Charpentier she was living in Vienna, but in 2009 she moved to a position with good research opportunities at Umeå University in the north of Sweden. She was warned about moving to such a remote part of the world, but the long, dark winter allows her plenty of peace and quiet for work.
+
+And she needs it. She is also interested in small, gene-regulating RNA molecules and, working with researchers in Berlin, she has mapped the small RNAs found in S. pyogenes. The results have given her a lot to think about, because one of the small RNA molecules that exists in large amounts in this bacterium is an as yet unknown variant, and the genetic code for this RNA is very close to the peculiar CRISPR sequence in the bacterium's genome.
+
+The similarities between the two make Charpentier suspect that they are linked. Careful analysis of their genetic codes also reveals that one part of the small and unknown RNA molecule matches the part of CRISPR that is repeated. It is like finding two puzzle pieces that fit together perfectly.
+
+Charpentier had never worked with CRISPR, but her research group initiates some thorough microbiological detective work to map the CRISPR system in S. pyogenes. This system, which belongs to class 2, was already known to only require a single Cas protein, Cas9, to cleave virus DNA. Charpentier shows that the unknown RNA molecule, which is named trans-activating crispr RNA (tracrRNA), also has a decisive function; it is necessary for the long RNA that is created from the CRISPR sequence in the genome to mature into its active form.
+
+After intensive and targeted experimentation, Emmanuelle Charpentier publishes the discovery of tracrRNA in March 2011. She knows that she is on the heels of something very exciting. She has many years of experience in microbiology and in her continuing investigation of the CRISPR-Cas9 system she wants to cooperate with a biochemist. Jennifer Doudna is the natural choice. So that spring, when Charpentier is invited to a conference in Puerto Rico to talk about her findings, her aim is to meet this skilled Berkeley researcher.
+
+A life-changing meeting in a Puerto Rican café
+
+By coincidence, they meet at a café on the second day of the conference. A colleague of Doudna introduces them to each other and, the following day, Charpentier proposes that they should explore the old parts of the capital city together. As they stroll along the cobbled streets, they start talking about their research. Charpentier wonders whether Doudna is interested in a collaboration – would she like to participate in studying the function of Cas9 in S. pyogenes' simple class 2 system?
+
+Jennifer Doudna is intrigued, and they and their colleagues make plans for the project via digital meetings. Their suspicion is that CRISPR-RNA is needed to identify a virus' DNA, and that Cas9 is the scissor that cuts off the DNA molecule. However, nothing happens when they test this in vitro. The DNA molecule remains intact. Why? Is something wrong with the experimental conditions? Or does Cas9 have an entirely different function?
+
+After a great deal of brainstorming and numerous failed experiments, the researchers finally add tracrRNA to their tests. Previously, they believed that tracrRNA was only necessary when CRISPR-RNA was cleaved into its active form, but once Cas9 had access to tracrRNA what every-one was waiting for actually happened: the DNA molecule was cleaved into two parts.
+
+Evolutionary solutions have often surprised researchers, but this was something extraordinary. The weapon that streptococci have developed as a protection from viruses is simple and effective, even brilliant. The history of genetic scissors could have stopped here; Charpentier and Doudna had uncovered a fundamental mechanism in a bacterium that causes great suffering for humanity. That discovery was astounding in itself, but chance favours prepared minds.
+
+An epoch-making experiment
+
+The researchers decide to try to simplify the genetic scissors. Using their new knowledge about tracr-RNA and CRISPR-RNA, they figured out how to fuse the two into a single molecule, which they named guide RNA. With this simplified variant of the genetic scissors, they then undertake an epoch-making experiment: they investigate whether they can control this genetic tool so that it cuts the DNA at a location decided by the researchers.
+
+By this time, the researchers know that they are close to a major breakthrough. They take a gene that is already in a freezer in Doudna's laboratory and select five different places where the gene should be cleaved. They then change the CRISPR part of the scissors so that its code matches the code where the cuts are to be made. The result was overwhelming. The DNA molecules were cleaved in exactly the right places.
+
+Genetic scissors change the life sciences
+
+Soon after Emmanuelle Charpentier and Jennifer Doudna publish their discovery of the CRISPR/Cas9 genetic scissors in 2012, several research groups demonstrate that this tool can be used to modify the genome in cells from both mice and humans, leading to explosive development. Previously, changing the genes in a cell, plant or organism was time-consuming and sometimes impossible. Using the genetic scissors, researchers can – in principle – make cuts in whichever genome they wish. After this, it is easy to utilise the cell's natural systems for DNA repair so that they rewrite the code of life.
+
+Because this gene tool is so easy to use, it is now widespread in basic research. It is used to change the DNA of cells and laboratory animals for the purpose of understanding how different genes function and interact, such as during the course of a disease.
+
+Genetic scissors have also become a standard tool in plant breeding. The methods previously used by researchers to modify plant genomes often required the addition of genes for antibiotic resistance. When the crops were planted, there was a risk of this antibiotic resistance spreading to the surrounding microorganisms. Thanks to the genetic scissors, researchers no longer need to use these older methods as they can now make very precise changes to the genome. Among other things, they have edited the genes that make rice absorb heavy metals from the soil, leading to improved rice varieties with lower levels of cadmium and arsenic. Researchers have also developed crops that better withstand drought in a warmer climate, and which resist insects and pests that would otherwise have to be dealt with using pesticides.
+
+Hope of curing inherited diseases
+
+In medicine, the genetic scissors are contributing to new immunotherapies for cancer and trials are underway to make a dream come true – curing inherited diseases. Researchers are already performing clinical trials to investigate whether they can use CRISPR/Cas9 to treat blood diseases such as sickle cell anaemia and beta thalassemia, as well as inherited eye diseases.
+
+They are also developing methods for repairing genes in large organs, such as the brain and muscles. Animal experiments have shown that specially designed viruses can deliver the genetic scissors to the desired cells, treating models of devastating inherited diseases such as muscular dystrophy, spinal muscular atrophy and Huntington's disease. However, the technology needs further refinement before it can be tested on humans.
+
+The power of genetic scissors requires regulation
+
+Alongside all their benefits, genetic scissors can also be misused. For example, this tool can be used to create genetically modified embryos. However, for many years there have been laws and regulations that control the application of genetic engineering, which include prohibitions on modifying the human genome in a way that allows the changes to be inherited. Also, experiments that involve humans and animals must always be reviewed and approved by ethical committees before they are carried out.
+
+One thing is certain: these genetic scissors affect us all. We will face new ethical issues, but this new tool may well contribute to solving many of the challenges now facing humanity. Through their discovery, Emmanuelle Charpentier and Jennifer Doudna developed a chemical tool that has taken life sciences into a new epoch. They have made us gaze out onto a vast horizon of unimagined potential and, along the way – as we explore this new land – we are guaranteed to make new and unexpected discoveries.
+
+© 2020 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.

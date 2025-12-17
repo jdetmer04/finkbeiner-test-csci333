@@ -1,67 +1,35 @@
-New research also offers hints for devising ways to stop students from creating obstacles to success
+Share
 
-Partying the night before a big exam. Preparing last-minute for a work presentation. Running a 5K in a 10-pound Halloween costume. All are examples of what psychologists call “self-handicapping” — creating obstacles to success to order to bolster or protect one’s own reputation.
+Global map showing kilometer-scale ocean turbulence that mix water masses and transport heat, energy, and nutrients. IMAGE AND PHOTO: COURTESY OF ABIGAIL BODNER
 
-“It’s actually very common,” said Yang Xiang, a psychology Ph.D. candidate in the Kenneth C. Griffin Graduate School of Arts and Sciences. “There have been many decades of work documenting this behavior.”
+By Mark Sullivan
 
-Much of the previous research has chalked it up to personality traits, with some publications featuring questionnaires that gauge individual propensity.
+“I am fascinated by the way mathematics can describe fluid motion,” says Bodner, a self-described “desk oceanographer” who is an assistant professor in the Department of Earth, Atmospheric and Planetary Sciences. She holds an MIT Schwarzman College of Computing shared position with the Department of Electrical Engineering and Computer Science, which is housed jointly in the college and the School of Engineering.
 
-Xiang and her co-authors have devised a formal, mathematical model of how the phenomenon works socially. Their “signaling theory of self-handicapping,” recently published in the journal Cognition, identifies the situational factors that motivate the behavior — and charts its impacts on different kinds of observers.
+Through her research into localized ocean turbulence and its impact on climate patterns, she seeks to improve larger-scale climate models, leading to better projections of long-term changes, such as sea-level rise, that are important to coastal communities.
 
-“We’re saying that regardless of what kind of person you are, this can be a very rational thing to do,” Xiang said. “We can predict when you would do it and when you would not do it.”
+Applying math and theory to natural phenomena
 
-Xiang, the paper’s lead author, has been researching the cognitive foundations of collaboration for her dissertation.
+Bodner uses AI tools, satellite imagery, and data from idealized and more realistic simulations in her studies of complex ocean-atmosphere interactions.
 
-Her Collaborative Utility Calculus framework explains how individuals navigate the many challenges of working together — from choosing teammates to allocating effort and assigning responsibility — by understanding what others think and recognizing what they can do.
+“I was interested in math and earth sciences and ended up focusing on fluid dynamics, which combines the best of both worlds,” she said. “It’s a way we can explain natural phenomena with equations and physics. I got excited by the possibility of being able to see something and then write down this super complex mathematical form.
 
-Advising the project was Professor Samuel J. Gershman, the cognitive psychologist who leads the Computational Cognitive Neuroscience Lab.
+“More recently, I’ve started using computational tools, including different types of model simulations. AI is emerging in ocean observation products. It has been interesting to be able to combine computational tools and theory together with explaining natural phenomena and their impact.”
 
-“Our experiments show people can make reliable inferences about how competent someone is just by observing one or two events,” Xiang said.
+Abigail Bodner
 
-Self-handicapping is an attempt to game those inferences, with hopes of gaining more favorable assessments.
+Bodner came to MIT in 2024, previously having been a Simons Junior Fellow at the Courant Institute of Mathematical Sciences at New York University. She received her BS in geophysics and mathematics and MS in geophysics from Tel Aviv University, and her SM in applied mathematics and PhD in earth, environmental, and planetary sciences from Brown University.
 
-As previous research has shown, the behavior not only enhances perceptions of competence when the morning-after exam gets an A-plus, it can protect perceived competence when the test-taker bombs.
+She cofounded and directs an online summer program, Climatematch Academy, that has trained thousands of users from diverse backgrounds around the world to engage climate challenges using cutting-edge techniques.
 
-But when, exactly, do people self-handicap? And just who are they likely to sway with this tactic?
+“I am passionate about teaching and am especially motivated to teach computational tools for climate science,” said Bodner. “I believe it is critical that the future generation of scientists are properly trained to use the wealth of climate data and tools available on open-source platforms.”
 
-Xiang, Gershman, and co-author Tobias Gerstenberg of Stanford University theorized that self-handicapping is the result of recursive reasoning, with actors capable of contemplating how others think of them.
+Monitoring the interaction of ocean and atmosphere on a local scale
 
-They emphasize that the decision to self-handicap must be made in advance. But it follows a set of logical deliberations regarding one’s own competence and the potential for influencing others.
+Her research focuses on the role of turbulence in the upper, or topmost, layer of the ocean, where the exchange of heat and energy with the atmosphere occurs, playing a significant role in global climate regulation.
 
-“You’re doing this because it works,” Xiang said. “You’re doing this because you’re actually aware of what matters to whom.”
+“The ocean and the atmosphere communicate through that upper layer through turbulence,” she said. “It’s an interesting mathematical and physical problem, too small to capture from theories we’ve developed for large-scale ocean circulation, but too big to be captured in a tank or classroom experiment. Beyond the theoretical mathematical perspective, this hyperlocal phenomenon can impact the global climate.”
 
-The team tested their ideas with two experiments, both designed to mimic a classic TV quiz show. The experiments proceeded in three rounds.
+Global models are used in long-term projections of changes in sea surface temperatures, in rising sea levels, and in “what our climate system is going to be doing over the next hundred years,” she says. But the grid used in the global model doesn’t resolve a particular geographic locality such as Boston, which occupies a mere pixel or grid point in the model.
 
-In the first round, 200 participants observed and evaluated a set of active players. Each player was given 20 general knowledge questions, with the threshold for passing at eight correct answers.
-
-Half were judged on responses to all 20 questions, while the other half were evaluated on a random subset of 10.
-
-The second round plunged onlookers into the trivia itself. At the top, study participants were given the opportunity to be judged on a random subset of 10 answers. That is, they could choose in advance to self-handicap.
-
-A final round meant re-evaluating the players from Round 1, with study participants now the wiser to the ways of self-handicapping. Exact scores were never provided. All that was known was whether the player in question had passed — and whether self-handicapping was involved.
-
-As the model confirmed, the behavior occurred most frequently with those least likely to fail — or to succeed.
-
-“If I observe someone self-handicapping, I know they are probably very competent or very incompetent,” Xiang explained. “And if I observe that they didn’t self-handicap when given the choice, I know they’re probably somewhere in the middle.”
-
-Most previous academic accounts have focused on those who exhibit self-handicapping, but the signalizing theory is unique in incorporating observers.
-
-Self-handicappers who passed the quiz were given the highest rankings, just as the model predicted. The behavior also proved to mitigate harsh judgments of those who failed.
-
-However, the sophisticated observers of Round 3 were considerably less generous with failing self-handicappers.
-
-“People who themselves have been self-handicappers are actually more likely to interpret others’ behaviors as intentionally self-handicapping,” Xiang noted.
-
-To be sure, previous studies show self-handicapping can undermine educational goals. It has been linked with lower self-esteem, lower motivation, and declining student performance over time.
-
-But a subtle difference between the study’s two experiments hints at possible interventions.
-
-Active quiz-takers in the first experiment were instructed to maximize perceived competence, while those in the second were told to maximize success.
-
-While results show players in Experiment 2 were far less likely to self-handicap, they were still most likely to use the tactic when competence was very high or very low.
-
-That means emphasizing success does not, on its own, prevent self-handicapping. What’s needed is an emphasis on learning.
-
-The co-authors suggest educators use this finding in action by focusing on individual progress over student rankings. Also proposed is tailoring assignments to the individual learner, since self-handicapping is less likely to occur when tasks align with competence.
-
-“By formalizing the cognitive underpinnings of this behavior,” Xiang said, “we hope this research illuminates ways to prevent harmful academic self-handicapping.”
+“Any kind of local effects we need to plan for over the next few decades are going to be informed by this coarse model,” she observes. “And then the question is, do we have the right information? Improving our understanding of what happens on a smaller scale, on the order of one kilometer or less, will better inform long-term projections on the larger scale.”

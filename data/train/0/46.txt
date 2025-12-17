@@ -1,0 +1,67 @@
+New research also offers hints for devising ways to stop students from creating obstacles to success
+
+Partying the night before a big exam. Preparing last-minute for a work presentation. Running a 5K in a 10-pound Halloween costume. All are examples of what psychologists call “self-handicapping” — creating obstacles to success to order to bolster or protect one’s own reputation.
+
+“It’s actually very common,” said Yang Xiang, a psychology Ph.D. candidate in the Kenneth C. Griffin Graduate School of Arts and Sciences. “There have been many decades of work documenting this behavior.”
+
+Much of the previous research has chalked it up to personality traits, with some publications featuring questionnaires that gauge individual propensity.
+
+Xiang and her co-authors have devised a formal, mathematical model of how the phenomenon works socially. Their “signaling theory of self-handicapping,” recently published in the journal Cognition, identifies the situational factors that motivate the behavior — and charts its impacts on different kinds of observers.
+
+“We’re saying that regardless of what kind of person you are, this can be a very rational thing to do,” Xiang said. “We can predict when you would do it and when you would not do it.”
+
+Xiang, the paper’s lead author, has been researching the cognitive foundations of collaboration for her dissertation.
+
+Her Collaborative Utility Calculus framework explains how individuals navigate the many challenges of working together — from choosing teammates to allocating effort and assigning responsibility — by understanding what others think and recognizing what they can do.
+
+Advising the project was Professor Samuel J. Gershman, the cognitive psychologist who leads the Computational Cognitive Neuroscience Lab.
+
+“Our experiments show people can make reliable inferences about how competent someone is just by observing one or two events,” Xiang said.
+
+Self-handicapping is an attempt to game those inferences, with hopes of gaining more favorable assessments.
+
+As previous research has shown, the behavior not only enhances perceptions of competence when the morning-after exam gets an A-plus, it can protect perceived competence when the test-taker bombs.
+
+But when, exactly, do people self-handicap? And just who are they likely to sway with this tactic?
+
+Xiang, Gershman, and co-author Tobias Gerstenberg of Stanford University theorized that self-handicapping is the result of recursive reasoning, with actors capable of contemplating how others think of them.
+
+They emphasize that the decision to self-handicap must be made in advance. But it follows a set of logical deliberations regarding one’s own competence and the potential for influencing others.
+
+“You’re doing this because it works,” Xiang said. “You’re doing this because you’re actually aware of what matters to whom.”
+
+The team tested their ideas with two experiments, both designed to mimic a classic TV quiz show. The experiments proceeded in three rounds.
+
+In the first round, 200 participants observed and evaluated a set of active players. Each player was given 20 general knowledge questions, with the threshold for passing at eight correct answers.
+
+Half were judged on responses to all 20 questions, while the other half were evaluated on a random subset of 10.
+
+The second round plunged onlookers into the trivia itself. At the top, study participants were given the opportunity to be judged on a random subset of 10 answers. That is, they could choose in advance to self-handicap.
+
+A final round meant re-evaluating the players from Round 1, with study participants now the wiser to the ways of self-handicapping. Exact scores were never provided. All that was known was whether the player in question had passed — and whether self-handicapping was involved.
+
+As the model confirmed, the behavior occurred most frequently with those least likely to fail — or to succeed.
+
+“If I observe someone self-handicapping, I know they are probably very competent or very incompetent,” Xiang explained. “And if I observe that they didn’t self-handicap when given the choice, I know they’re probably somewhere in the middle.”
+
+Most previous academic accounts have focused on those who exhibit self-handicapping, but the signalizing theory is unique in incorporating observers.
+
+Self-handicappers who passed the quiz were given the highest rankings, just as the model predicted. The behavior also proved to mitigate harsh judgments of those who failed.
+
+However, the sophisticated observers of Round 3 were considerably less generous with failing self-handicappers.
+
+“People who themselves have been self-handicappers are actually more likely to interpret others’ behaviors as intentionally self-handicapping,” Xiang noted.
+
+To be sure, previous studies show self-handicapping can undermine educational goals. It has been linked with lower self-esteem, lower motivation, and declining student performance over time.
+
+But a subtle difference between the study’s two experiments hints at possible interventions.
+
+Active quiz-takers in the first experiment were instructed to maximize perceived competence, while those in the second were told to maximize success.
+
+While results show players in Experiment 2 were far less likely to self-handicap, they were still most likely to use the tactic when competence was very high or very low.
+
+That means emphasizing success does not, on its own, prevent self-handicapping. What’s needed is an emphasis on learning.
+
+The co-authors suggest educators use this finding in action by focusing on individual progress over student rankings. Also proposed is tailoring assignments to the individual learner, since self-handicapping is less likely to occur when tasks align with competence.
+
+“By formalizing the cognitive underpinnings of this behavior,” Xiang said, “we hope this research illuminates ways to prevent harmful academic self-handicapping.”

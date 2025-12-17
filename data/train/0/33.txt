@@ -1,37 +1,33 @@
-Biologists long have been fascinated by the ability of salamanders to regrow entire limbs. Now Harvard researchers have solved part of the mystery of how they accomplish this feat — by activating stem cells throughout the body, not just at the injury site.
+Share
 
-In a new paper published in the journal Cell, researchers documented how this bodywide response in axolotl salamanders is triggered by the sympathetic nervous system, or the “fight or flight” network. The study raises the possibility that these mechanisms might one day be manipulated to regenerate human limbs and organs.
+Lucy Kanias, center, with her Alpha Chi Omega sisters Megha Vemuri '25 (left) and Elizabeth Jackson '27 (right) at a sorority event. PHOTO: COURTESY OF LUCY KANIAS
 
-“We’ve shown the importance of the adrenaline stress signaling hormone in getting cells ready for regeneration,” said Duygu Payzin-Dogru, lead author of the study and a postdoctoral researcher in the Department of Stem Cell and Regenerative Biology. “Because adrenaline exists in humans, this tells us we can co-opt some of the things we found in the axolotl to perhaps improve regenerative outcomes in humans. We have some of the same components and just have to figure out the right way to implement them.”
+by Christine Thielman
 
-The new study culminates several years of research by the lab of Jessica Whited, associate professor in the Department of Stem Cell and Regenerative Biology, who studies limb regeneration in axolotls, a species native to Mexico. Axolotls are often examined as model organisms of limb regeneration because they are among the fastest-breeding species of salamanders.
+As a participant in Seren, a government initiative designed to encourage talented Welsh students to apply to top-notch universities at home and abroad, she had access to enrichment opportunities and special programming. One Zoom session during the pandemic featured international students at MIT who were invited to talk about the application process and life at the Institute.
 
-Some invertebrates, such as planarian flatworms, can regrow entire bodies from small bits of tissue. But salamanders are the only vertebrates that can regenerate full limbs.
+“The students there just seemed so grateful and enthusiastic and excited about the work they were doing,” Kanias recalls. She was thrilled to be accepted to MIT and was offered financial support as a John Psarouthakis and Elizabeth Paleologou Scholar. John Psarouthakis ’57 SM ’62 was a native of Crete who emigrated to the United States to attend MIT and went on to become a successful engineer and entrepreneur. He endowed a scholarship fund that gives preference to students of Greek descent, like Kanias.
 
-When an appendage is severed, salamanders sprout a blastema — a lump that contains the precursor cells that become increasingly specialized to form a new arm, leg, or tail.
+“There was no chance I could have come without the scholarship,” she explains. “My parents have had a lot of hiccups whilst I’ve grown up, especially health issues related to my dad. That’s been a massive help, not having to worry about my parents supporting me through college.”
 
-This remarkable ability has long intrigued biologists because it may provide insights into regenerative medicine. Some researchers suspect that the ancient common ancestor of all tetrapods (the group of four-limbed vertebrates that includes amphibians, birds, and mammals) was able to regenerate limbs, but this ability was subsequently lost in most evolutionary lineages.
+“I’m used to having a massive family at home, and it was nice to join an even bigger community!” says Lucy Kanias of her MIT sorority.
 
-In 2018, the Whited team reported that limb amputation triggered a proliferation of cells throughout the body — even in limbs and organs that remained unharmed — but it remained unclear what mechanisms governed this response. The team spent more than six years deciphering those processes — an investigation that ultimately involved 38 co-authors.
+New friends and colleagues
 
-They discovered that the systematic response was coordinated by the adrenergic signaling network, part of the sympathetic nervous system that also controls involuntary responses such as heart rate, breathing, and blood flow during times of extreme stress. (This system became well-known due to the pioneering studies of Harvard physiologist Walter Bradford Cannon, who coined the term “fight or flight response” more than a century ago). Adrenergic signaling also involves the hormones noradrenaline and adrenaline, both of which also can act as neurotransmitters.
+Majoring in chemical engineering (Course 10), Kanias explored lithium extraction for sustainability through an Undergraduate Research Opportunities Program in the lab of John Lienhard, the Abdul Latif Jameel Professor of Water and Mechanical Engineering and founding director of the Abdul Latif Jameel Water and Food Systems Lab. She was supervised by former MathWorks Fellow Zi Hao Foo SM ’21, PhD ’24, now a postdoctoral fellow at the University of California, Berkeley, whom she describes as “one of those mentors who really encouraged me and had trust.” Recalling her lack of confidence when she first arrived at MIT, Kanias says gratefully, “He made me feel capable, even when I doubted myself.” She notes that the group in Lienhard’s lab grew so close that they all traveled to Singapore for Foo’s wedding.
 
-“There is something that senses the injury and kind of goes into ‘getting ready’ mode for a subsequent injury so it can respond faster.” Duygu Payzin-Dogru
+Approximately 37% of the undergraduate student body belongs to one of MIT’s 43 FSILGs.
 
-The systemic activation of stem cells and other progenitor cells “primes” the other uninjured limbs to regenerate more quickly — an ability that may help salamanders survive in the wild because they often lose multiple limbs to predators or cannibalism. The researchers discovered that the activated cells reconfigured their DNA architecture to make some genes easier to turn on — thus readying them for future regeneration.
+Kanias has also formed lasting relationships through her sorority, Alpha Chi Omega (AXO), founded in 1885 at DePauw University. The Theta Omicron Chapter of AXO was founded 100 years later at MIT with the motto Real.Strong.Women. This year, Kanias serves as the chapter’s president. Learning about AXO during an orientation for international students, she says, “It seemed like a perfect opportunity for me. I’m used to having a massive family at home, and it was nice to join an even bigger community!”
 
-“The animal seems to form a short-term memory of the injury, bodywide,” said Payzin-Dogru. “There is something that senses the injury and kind of goes into ‘getting ready’ mode for a subsequent injury so it can respond faster.”
+“One of the most meaningful traditions for me is AXO Fondue Night,” Kanias says. “Members invite faculty and alumni to our house on Commonwealth Avenue, which creates an informal yet special space to foster connections between AXO and the wider MIT community.” The sorority members also organize events designed to raise awareness of domestic violence and volunteer at the Boston Marathon each spring.
 
-But the priming was short-lived: The researchers found that systemic activation persisted only a few cell cycles, perhaps because the high metabolic costs could only be sustained for brief periods. After four weeks, there was no difference in the speed of limb regeneration.
+A global education
 
-The study parsed the roles of different elements of this system: One pathway, known as alpha-adrenergic signaling, is required to prime distant cells for limb regeneration, while another, known as beta-adrenergic signaling, promotes regrowth at the amputation site. The adrenergic signaling also triggered cascades of downstream processes essential for limb regeneration.
+Kanias has taken full advantage of international learning opportunities during her undergraduate years, largely through the MIT International Science and Technology Initiatives (MISTI). Through Global Teaching Labs, one of MISTI’s core programs, she taught chemistry to high school students in Bremen, Germany, and had summer research positions at Graber Lab for Energy Research in Berlin and at Ucaneo, a German company that develops direct air capture technology to remove carbon dioxide from the atmosphere.
 
-“I think it’s going to inspire a lot of future work to try to figure out not just how this works in an axolotl, but also how it works in other systems.” Jessica Whited
+In the 2025–26 academic year, Kanias is part of the new Undergraduate Fellows Program at the MIT Center for International Studies. “I’m working with Phil Budden in the MIT Management Department, who has Welsh heritage, which made the connection especially meaningful for me,” she says. “Being accepted into this fellowship feels significant, as it represents MIT’s efforts to collaborate not just on campus but also globally.” As part of the program, she will contribute to curriculum development for the MIT Regional Entrepreneurship Acceleration Program, a global initiative that engages with communities around the world to strengthen innovation-driven entrepreneurial ecosystems.
 
-For two centuries, scientists have known that nerve supply was necessary to regenerate limbs, but many suspected the process involved sensory or motor nerves. “I heard very few people talking about sympathetic nerves,” said Whited.
+Now in her senior year, Kanias is considering a wide range of options after graduation, applying for climate-focused jobs both in the United States and Germany. “I think the main thing is having an open mind because that’s what got me to MIT in the first place. The main thing that motivates me is just to feel like I’m doing good in the world more than anything.”
 
-Until now, many biologists have viewed limb regeneration as a local phenomenon at the injury site. But Whited said growing evidence suggests that it should be viewed as a whole-body event.
-
-“I think it’s paradigm-shifting,” she said of the new study. “I think it’s going to inspire a lot of future work to try to figure out not just how this works in an axolotl, but also how it works in other systems.”
-
-This research was funded in part by the National Institutes of Health.
+SUPPORT SCHOLARSHIPS AT MIT MIT is committed to meeting the financial needs of its undergraduates, ensuring that every student who accepts an offer of admission has the resources and support to thrive. There are many ways to support our undergraduates. Learn how.
