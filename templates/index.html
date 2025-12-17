@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finkbeiner Test Analyzer</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+        
+        body {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f7fa;
+            color: #333;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .description {
+            background: #e8f4f8;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: #2c3e50;
+        }
+        
+        textarea {
+            width: 100%;
+            height: 200px;
+            padding: 15px;
+            border: 2px solid #e1e8ed;
+            border-radius: 5px;
+            font-size: 16px;
+            resize: vertical;
+            margin-bottom: 20px;
+            transition: border-color 0.3s;
+        }
+        
+        textarea:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+        
+        button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            transition: background 0.3s;
+        }
+        
+        button:hover {
+            background: #2980b9;
+        }
+        
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            border-radius: 5px;
+            display: none;
+        }
+        
+        .result.visible {
+            display: block;
+            animation: fadeIn 0.5s;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        .prediction {
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        
+        .non-compliant { background: #f8d7da; color: #721c24; }
+        .partially-compliant { background: #fff3cd; color: #856404; }
+        .compliant { background: #d4edda; color: #155724; }
+        
+        .confidence {
+            text-align: center;
+            font-size: 16px;
+            margin: 10px 0 20px 0;
+            color: #666;
+        }
+        
+        .probabilities {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        
+        .prob-item {
+            flex: 1;
+            text-align: center;
+            padding: 10px;
+            background: #f8f9fa;
+            margin: 0 5px;
+            border-radius: 5px;
+        }
+        
+        .prob-value {
+            font-size: 20px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .prob-label {
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        
+        .sample {
+            font-size: 12px;
+            color: #666;
+            margin-top: 10px;
+            text-align: center;
+        }
+        
+        .sample a {
+            color: #3498db;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Finkbeiner Test Analyzer</h1>
+        
+        <div class="description">
+            <p><strong>What is the Finkbeiner Test?</strong> It's a checklist for avoiding gender bias in profiles of female scientists. This tool uses AI to analyze text and determine if it complies with the test.</p>
+            <p><strong>How to use:</strong> Paste a science article or profile text below and click "Analyze".</p>
+        </div>
+        
+        <form method="POST">
+            <textarea 
+                name="article_text" 
+                placeholder="Paste your science article or profile text here..." 
+                required
+            >{% if text_input %}{{ text_input }}{% endif %}</textarea>
+            
+            <button type="submit">🔍 Analyze for Gender Bias</button>
+        </form>
+        
+        <div class="sample">
+            <p>Try a sample: 
+                <a onclick="document.querySelector('textarea').value='Dr. Jane Smith is a brilliant physicist at MIT. She is also a mother of two and enjoys baking in her free time. Her husband works as a banker in Boston.'">
+                    Example 1 (potentially biased)
+                </a> | 
+                <a onclick="document.querySelector('textarea').value='Dr. Jane Smith, a professor at MIT, recently discovered a new particle in quantum physics. Her research focuses on string theory applications in cosmological models. She has published over 50 papers in peer-reviewed journals.'">
+                    Example 2 (less biased)
+                </a>
+            </p>
+        </div>
+        
+        {% if error %}
+        <div class="error">
+            ❌ {{ error }}
+        </div>
+        {% endif %}
+        
+        {% if result %}
+        <div class="result visible">
+            <h2>Analysis Results</h2>
+            <p><strong>Text analyzed:</strong> "{{ result.text }}"</p>
+            
+            <div class="prediction {{ 
+                'non-compliant' if 'Non-compliant' in result.prediction 
+                else 'partially-compliant' if 'Partially' in result.prediction 
+                else 'compliant' 
+            }}">
+                {{ result.prediction }}
+            </div>
+            
+            <div class="confidence">
+                Confidence: {{ result.confidence }}%
+            </div>
+            
+            <h3>Detailed Probabilities:</h3>
+            <div class="probabilities">
+                {% for label, prob in result.probabilities.items() %}
+                <div class="prob-item">
+                    <div class="prob-value">{{ "%.1f"|format(prob * 100) }}%</div>
+                    <div class="prob-label">{{ label }}</div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -4,13 +4,20 @@ import re
 import shutil
 import string
 import tensorflow as tf
+import json
 
 from tensorflow.keras import layers
 from tensorflow.keras import losses
 
+# Add standardization function
+def custom_standardization(input_data):
+    lowercase = tf.strings.lower(input_data)
+    # Keep only alphanumeric, spaces, and common punctuation
+    stripped = tf.strings.regex_replace(lowercase, r'[^\w\s\.,\!\?\'"]', '')
+    return stripped
+
 train_dir = 'data/train'
 test_dir = 'data/test'
-sample_file = os.path.join(train_dir, '0/0.txt')
 
 batch_size = 10
 seed = 67
@@ -29,53 +36,48 @@ max_features = 10000
 sequence_length = 250
 
 vectorize_layer = layers.TextVectorization(
-    standardize=None,
+    standardize=custom_standardization,  # Add standardization
     max_tokens=max_features,
     output_mode='int',
     output_sequence_length=sequence_length)
 
+# Adapt the vectorization layer
 train_text = raw_train_ds.map(lambda x, y: x)
 vectorize_layer.adapt(train_text)
 
-def vectorize_text(text, label):
-    text = tf.expand_dims(text, -1)
-    return vectorize_layer(text), label
-
-text_batch, label_batch = next(iter(raw_train_ds))
-first_review, first_label = text_batch[0], label_batch[0]
-print("Review", first_review)
-print("Label", raw_train_ds.class_names[first_label])
-print("Vectorized review", vectorize_text(first_review, first_label))
-
-train_ds = raw_train_ds.map(vectorize_text)
-test_ds = raw_test_ds.map(vectorize_text)
-
-AUTOTUNE = tf.data.AUTOTUNE
-train_ds = train_ds.cache().prefetch(buffer_size=AUTOTUNE)
-test_ds = test_ds.cache().prefetch(buffer_size=AUTOTUNE)
-
 embedding_dim = 16
 
-model = tf.keras.Sequential([
-  layers.Embedding(max_features, embedding_dim),
-  layers.Dropout(0.2),
-  layers.GlobalAveragePooling1D(),
-  layers.Dropout(0.2),
-  layers.Dense(3, activation='softmax')])
+# Build the complete model
+complete_model = tf.keras.Sequential([
+    vectorize_layer,
+    layers.Embedding(max_features, embedding_dim),
+    layers.Dropout(0.2),
+    layers.GlobalAveragePooling1D(),
+    layers.Dropout(0.2),
+    layers.Dense(3, activation='softmax')
+])
 
-model.summary()
+# Compile the model
+complete_model.compile(loss=losses.SparseCategoricalCrossentropy(),
+                       optimizer='adam',
+                       metrics=[tf.metrics.SparseCategoricalAccuracy()])
 
-model.compile(loss=losses.SparseCategoricalCrossentropy(),
-              optimizer='adam',
-              metrics=[tf.metrics.SparseCategoricalAccuracy()])
-
-epochs = 3
-history = model.fit(
-    train_ds,
+# Train the complete model
+epochs = 20
+history = complete_model.fit(
+    raw_train_ds,
     epochs=epochs)
 
+# Evaluate
+loss, accuracy = complete_model.evaluate(raw_test_ds)
+print(f"Loss: {loss}, Accuracy: {accuracy}")
 
-loss, accuracy = model.evaluate(test_ds)
+# Save the complete model including preprocessing
+complete_model.save('trained_model.keras')
 
-print("Loss: ", loss)
-print("Accuracy: ", accuracy)
+# ALSO save just the text vectorization layer for debugging
+import pickle
+vocab = vectorize_layer.get_vocabulary()
+with open('vectorizer_vocab.pkl', 'wb') as f:
+    pickle.dump(vocab, f)
+print(f"Vocabulary saved with {len(vocab)} words")
